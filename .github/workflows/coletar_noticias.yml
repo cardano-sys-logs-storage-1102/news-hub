@@ -1,0 +1,37 @@
+name: Coleta de Notícias Diária
+
+on:
+  schedule:
+    - cron: '0 10 * * *'   # 07h00 Brasília (UTC-3)
+  workflow_dispatch:         # permite rodar manualmente
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependências
+        run: pip install requests feedparser
+
+      - name: Executar coletor de notícias
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python coletar_noticias.py
+
+      - name: Commit e push do noticias.json atualizado
+        run: |
+          git config user.name  "News Hub Bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add noticias.json
+          git diff --cached --quiet || git commit -m "news: atualização $(date +'%d/%m/%Y %H:%M') BRT"
+          git push
