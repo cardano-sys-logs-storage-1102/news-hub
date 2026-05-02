@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Hub — Daily Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:      #0d1117;
+  --bg2:     #161b22;
+  --bg3:     #21262d;
+  --border:  #30363d;
+  --text:    #e6edf3;
+  --muted:   #7d8590;
+  --dimmed:  #484f58;
+  --c-sci:   #378ADD;
+  --c-eco:   #1D9E75;
+  --c-bra:   #7F77DD;
+  --c-wld:   #EF9F27;
+  --r: 8px;
+}
+*{box-sizing:border-box;margin:0;padding:0;}
+body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-size:14px;line-height:1.6;min-height:100vh;}
+
+/* ── Header ── */
+header{background:var(--bg2);border-bottom:1px solid var(--border);padding:16px 28px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;}
+.logo{font-family:'DM Mono',monospace;font-size:12px;color:#EF9F27;background:rgba(239,159,39,.1);padding:4px 10px;border-radius:4px;border:1px solid rgba(239,159,39,.25);}
+header h1{font-size:15px;font-weight:500;flex:1;}
+.updated{font-family:'DM Mono',monospace;font-size:11px;color:var(--muted);}
+
+/* ── Tab bar ── */
+.tabs{background:var(--bg2);border-bottom:1px solid var(--border);padding:0 28px;display:flex;gap:2px;overflow-x:auto;}
+.tab{padding:12px 16px;font-size:13px;cursor:pointer;border-bottom:2px solid transparent;color:var(--muted);white-space:nowrap;transition:color .15s,border-color .15s;display:flex;align-items:center;gap:6px;}
+.tab:hover{color:var(--text);}
+.tab.active{color:var(--text);border-bottom-color:var(--accent-color,var(--text));}
+.tab-dot{width:7px;height:7px;border-radius:50%;background:var(--dot-color,var(--muted));}
+
+/* ── Toolbar ── */
+.toolbar{padding:12px 28px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;border-bottom:1px solid var(--border);}
+.toolbar input{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);color:var(--text);font-family:'DM Sans',sans-serif;font-size:13px;padding:7px 12px;width:220px;outline:none;transition:border-color .15s;}
+.toolbar input:focus{border-color:var(--accent-color,#7d8590);}
+.pill-group{display:flex;gap:4px;flex-wrap:wrap;}
+.pill{background:var(--bg2);border:1px solid var(--border);border-radius:20px;padding:5px 12px;font-size:12px;cursor:pointer;color:var(--muted);transition:all .15s;white-space:nowrap;}
+.pill:hover{border-color:var(--muted);color:var(--text);}
+.pill.active{background:var(--accent-color,var(--border));border-color:var(--accent-color,var(--border));color:#fff;}
+.count-badge{background:var(--bg3);border:1px solid var(--border);border-radius:20px;padding:3px 10px;font-size:11px;color:var(--muted);font-family:'DM Mono',monospace;}
+
+/* ── Main layout ── */
+.main{padding:24px 28px;max-width:1200px;}
+
+/* ── Destaque do dia ── */
+.destaque{background:var(--bg2);border:1px solid var(--border);border-left:3px solid var(--accent-color,var(--border));border-radius:var(--r);padding:16px 20px;margin-bottom:20px;}
+.destaque-label{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:var(--accent-color,var(--muted));margin-bottom:8px;}
+.destaque-titulo{font-size:16px;font-weight:500;line-height:1.4;margin-bottom:6px;}
+.destaque-titulo a{color:var(--text);text-decoration:none;}
+.destaque-titulo a:hover{color:var(--accent-color,var(--text));}
+.destaque-meta{font-size:12px;color:var(--muted);display:flex;gap:12px;align-items:center;flex-wrap:wrap;}
+.destaque-resumo{font-size:13px;color:var(--muted);margin-top:8px;line-height:1.6;}
+
+/* ── Grid de cards ── */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px;}
+
+/* ── Card de artigo ── */
+.card{background:var(--bg2);border:1px solid var(--border);border-radius:var(--r);padding:14px 16px;transition:border-color .15s;display:flex;flex-direction:column;gap:8px;}
+.card:hover{border-color:var(--dimmed);}
+.card-fonte{display:flex;align-items:center;gap:6px;}
+.fonte-dot{width:6px;height:6px;border-radius:50%;background:var(--accent-color,var(--muted));flex-shrink:0;}
+.fonte-nome{font-size:11px;color:var(--muted);font-family:'DM Mono',monospace;}
+.fonte-tipo{font-size:10px;padding:1px 6px;border-radius:10px;font-weight:500;}
+.tipo-artigo{background:rgba(55,138,221,.12);color:#378ADD;border:1px solid rgba(55,138,221,.25);}
+.tipo-video{background:rgba(239,68,68,.12);color:#f87171;border:1px solid rgba(239,68,68,.25);}
+.card-titulo{font-size:13px;font-weight:500;line-height:1.45;}
+.card-titulo a{color:var(--text);text-decoration:none;}
+.card-titulo a:hover{color:var(--accent-color,#7d8590);}
+.card-resumo{font-size:12px;color:var(--muted);line-height:1.55;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:auto;}
+.card-data{font-family:'DM Mono',monospace;font-size:11px;color:var(--dimmed);}
+
+/* ── Card de vídeo ── */
+.card-video{padding:0;overflow:hidden;}
+.video-thumb{width:100%;aspect-ratio:16/9;object-fit:cover;display:block;background:var(--bg3);}
+.video-thumb-placeholder{width:100%;aspect-ratio:16/9;background:var(--bg3);display:flex;align-items:center;justify-content:center;color:var(--dimmed);font-size:28px;}
+.video-body{padding:12px 14px;display:flex;flex-direction:column;gap:6px;}
+
+/* ── Loader / empty ── */
+.loader{display:flex;align-items:center;justify-content:center;gap:10px;padding:80px;color:var(--muted);font-family:'DM Mono',monospace;font-size:13px;}
+.spin{width:18px;height:18px;border:2px solid var(--border);border-top-color:var(--accent-color,#7d8590);border-radius:50%;animation:spin .7s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.empty{padding:60px 28px;text-align:center;color:var(--muted);}
+.empty h2{font-size:16px;margin-bottom:6px;color:var(--text);}
+
+/* ── Section header ── */
+.section-hdr{display:flex;align-items:center;justify-content:space-between;margin:0 0 14px;}
+.section-hdr h2{font-size:13px;font-weight:500;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;}
+
+@media(max-width:600px){
+  header,.tabs,.toolbar,.main{padding-left:14px;padding-right:14px;}
+  .toolbar input{width:100%;}
+  .grid{grid-template-columns:1fr;}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <span class="logo">news.hub</span>
+  <h1>Daily Briefing — Science · Economy · Politics</h1>
+  <span class="updated" id="updated">Loading...</span>
+</header>
+
+<div class="tabs" id="tabs">
+  <div class="tab active" data-cat="science_tech"    style="--accent-color:#378ADD;--dot-color:#378ADD">
+    <span class="tab-dot"></span>Science & Tech
+  </div>
+  <div class="tab" data-cat="economy"        style="--accent-color:#1D9E75;--dot-color:#1D9E75">
+    <span class="tab-dot"></span>Economy
+  </div>
+  <div class="tab" data-cat="brazil_politics" style="--accent-color:#7F77DD;--dot-color:#7F77DD">
+    <span class="tab-dot"></span>Brazil Politics
+  </div>
+  <div class="tab" data-cat="world_politics"  style="--accent-color:#EF9F27;--dot-color:#EF9F27">
+    <span class="tab-dot"></span>World Politics
+  </div>
+</div>
+
+<div class="toolbar">
+  <input type="text" id="search" placeholder="Search headlines...">
+  <div class="pill-group">
+    <span class="pill" id="f-all"     onclick="setFiltro('all')"    >All</span>
+    <span class="pill" id="f-artigo"  onclick="setFiltro('artigo')" >Articles</span>
+    <span class="pill" id="f-video"   onclick="setFiltro('video')"  >Videos</span>
+  </div>
+  <div class="pill-group">
+    <span class="pill" id="f-hoje"    onclick="setTempo('hoje')"    >Today</span>
+    <span class="pill" id="f-semana"  onclick="setTempo('semana')"  >This week</span>
+  </div>
+  <span class="count-badge" id="count">—</span>
+</div>
+
+<div class="main" id="main">
+  <div class="loader" id="loader">
+    <div class="spin"></div> Loading news...
+  </div>
+</div>
+
+<script>
+const CAT_COLORS = {
+  science_tech:    '#378ADD',
+  economy:         '#1D9E75',
+  brazil_politics: '#7F77DD',
+  world_politics:  '#EF9F27',
+};
+
+let DADOS = {};
+let CAT_ATUAL = 'science_tech';
+let FILTRO_TIPO = 'all';
+let FILTRO_TEMPO = '';
+let SEARCH = '';
+
+// ── Carregar dados ────────────────────────────────────────────────────────────
+async function carregar() {
+  try {
+    const r = await fetch('noticias.json?t=' + Date.now());
+    const json = await r.json();
+    DADOS = json.categorias || {};
+    const upd = (json.ultima_atualizacao || '').replace('T',' ').slice(0,16);
+    document.getElementById('updated').textContent = upd ? `Updated: ${upd} UTC` : '';
+    render();
+    document.getElementById('loader').style.display = 'none';
+  } catch(e) {
+    document.getElementById('loader').innerHTML =
+      '<p style="color:#f87171">Could not load noticias.json. Make sure the file exists in the repository.</p>';
+  }
+}
+
+// ── Tabs ──────────────────────────────────────────────────────────────────────
+document.getElementById('tabs').addEventListener('click', e => {
+  const tab = e.target.closest('.tab');
+  if (!tab) return;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  CAT_ATUAL = tab.dataset.cat;
+  const cor = CAT_COLORS[CAT_ATUAL] || '#7d8590';
+  document.querySelector('.toolbar input').style.setProperty('--accent-color', cor);
+  render();
+});
+
+// ── Filtros ───────────────────────────────────────────────────────────────────
+function setFiltro(tipo) {
+  FILTRO_TIPO = FILTRO_TIPO === tipo ? 'all' : tipo;
+  ['all','artigo','video'].forEach(t => {
+    document.getElementById('f-'+t).classList.toggle('active', FILTRO_TIPO === t);
+  });
+  render();
+}
+
+function setTempo(t) {
+  FILTRO_TEMPO = FILTRO_TEMPO === t ? '' : t;
+  ['hoje','semana'].forEach(k => {
+    document.getElementById('f-'+k).classList.toggle('active', FILTRO_TEMPO === k);
+  });
+  render();
+}
+
+document.getElementById('search').addEventListener('input', e => {
+  SEARCH = e.target.value.toLowerCase();
+  render();
+});
+
+function filtrar(itens) {
+  const agora = new Date();
+  return itens.filter(item => {
+    if (FILTRO_TIPO !== 'all' && item.tipo !== FILTRO_TIPO) return false;
+    if (SEARCH && !`${item.titulo} ${item.fonte} ${item.resumo}`.toLowerCase().includes(SEARCH)) return false;
+    if (FILTRO_TEMPO) {
+      const dt = new Date(item.data);
+      const diffH = (agora - dt) / 36e5;
+      if (FILTRO_TEMPO === 'hoje'   && diffH > 24)  return false;
+      if (FILTRO_TEMPO === 'semana' && diffH > 168) return false;
+    }
+    return true;
+  });
+}
+
+// ── Formatar data ─────────────────────────────────────────────────────────────
+function fmtData(iso) {
+  if (!iso) return '';
+  try {
+    const dt = new Date(iso);
+    const diffH = Math.round((Date.now() - dt) / 36e5);
+    if (diffH < 1)  return 'Just now';
+    if (diffH < 24) return `${diffH}h ago`;
+    const diffD = Math.floor(diffH / 24);
+    return `${diffD}d ago`;
+  } catch { return ''; }
+}
+
+// ── Templates ─────────────────────────────────────────────────────────────────
+function cardArticle(item, cor) {
+  return `<div class="card">
+    <div class="card-fonte">
+      <div class="fonte-dot" style="background:${cor}"></div>
+      <span class="fonte-nome">${item.fonte}</span>
+      <span class="fonte-tipo tipo-artigo">article</span>
+    </div>
+    <div class="card-titulo"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></div>
+    ${item.resumo ? `<div class="card-resumo">${item.resumo}</div>` : ''}
+    <div class="card-footer">
+      <span class="card-data">${fmtData(item.data)}</span>
+    </div>
+  </div>`;
+}
+
+function cardVideo(item, cor) {
+  const thumb = item.thumbnail
+    ? `<img class="video-thumb" src="${item.thumbnail}" alt="" loading="lazy">`
+    : `<div class="video-thumb-placeholder">▶</div>`;
+  return `<div class="card card-video">
+    <a href="${item.link}" target="_blank" rel="noopener">${thumb}</a>
+    <div class="video-body">
+      <div class="card-fonte">
+        <div class="fonte-dot" style="background:#f87171"></div>
+        <span class="fonte-nome">${item.fonte}</span>
+        <span class="fonte-tipo tipo-video">video</span>
+      </div>
+      <div class="card-titulo"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></div>
+      ${item.resumo ? `<div class="card-resumo">${item.resumo}</div>` : ''}
+      <div class="card-footer">
+        <span class="card-data">${fmtData(item.data)}</span>
+      </div>
+    </div>
+  </div>`;
+}
+
+function destaqueHTML(item, cor) {
+  return `<div class="destaque" style="--accent-color:${cor}">
+    <div class="destaque-label">Top story</div>
+    <div class="destaque-titulo"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></div>
+    <div class="destaque-meta">
+      <span>${item.fonte}</span>
+      <span>${fmtData(item.data)}</span>
+      <span class="fonte-tipo ${item.tipo === 'video' ? 'tipo-video' : 'tipo-artigo'}">${item.tipo}</span>
+    </div>
+    ${item.resumo ? `<div class="destaque-resumo">${item.resumo}</div>` : ''}
+  </div>`;
+}
+
+// ── Render ────────────────────────────────────────────────────────────────────
+function render() {
+  const itens = DADOS[CAT_ATUAL] || [];
+  const cor   = CAT_COLORS[CAT_ATUAL] || '#7d8590';
+  const visiveis = filtrar(itens);
+
+  document.getElementById('count').textContent = `${visiveis.length} items`;
+
+  const main = document.getElementById('main');
+  if (!visiveis.length) {
+    main.innerHTML = '<div class="empty"><h2>No results</h2><p>Try adjusting the filters above.</p></div>';
+    return;
+  }
+
+  // destaque
+  const top = visiveis.find(i => i.destaque) || visiveis[0];
+  const resto = visiveis.filter(i => i !== top);
+
+  const gridHTML = resto.map(item =>
+    item.tipo === 'video' ? cardVideo(item, cor) : cardArticle(item, cor)
+  ).join('');
+
+  main.innerHTML = `
+    ${destaqueHTML(top, cor)}
+    <div class="section-hdr">
+      <h2>All stories</h2>
+    </div>
+    <div class="grid">${gridHTML}</div>
+  `;
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+carregar();
+</script>
+</body>
+</html>

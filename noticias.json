@@ -1,0 +1,15 @@
+{
+  "categorias": {
+    "science_tech": [],
+    "economy": [],
+    "brazil_politics": [],
+    "world_politics": []
+  },
+  "ultima_atualizacao": "",
+  "meta": {
+    "science_tech":    {"label": "Science & Technology", "color": "#378ADD", "icon": "🔬"},
+    "economy":         {"label": "Economy & Markets",    "color": "#1D9E75", "icon": "📈"},
+    "brazil_politics": {"label": "Brazil Politics",      "color": "#7F77DD", "icon": "🇧🇷"},
+    "world_politics":  {"label": "World Politics",       "color": "#EF9F27", "icon": "🌍"}
+  }
+}
