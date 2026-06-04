@@ -2,6 +2,396 @@
   "categorias": {
     "science_tech": [
       {
+        "id": "ebc454d3657b",
+        "tipo": "artigo",
+        "titulo": "Short videos may hinder learning by fragmenting attention and memory, study finds",
+        "resumo": "Recent technological advances and the introduction of new digital media platforms have dramatically changed how people learn and source information about topics that interest them. Some recent studies have found that while browsing online or scrolling down social media platforms,…",
+        "link": "https://phys.org/news/2026-06-short-videos-hinder-fragmenting-attention.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T12:40:04",
+        "destaque": true
+      },
+      {
+        "id": "5a23a598776f",
+        "tipo": "artigo",
+        "titulo": "Too much hype? Research explores the best language to use for successful crowdfunding",
+        "resumo": "Entrepreneurs use a variety of strategies to achieve their goals, sometimes turning to online crowdfunding campaigns to increase their reach and raise money. Yet the success of fundraising campaigns is often variable, driven by what's being asked and the language that people deci…",
+        "link": "https://phys.org/news/2026-06-hype-explores-language-successful-crowdfunding.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T12:20:01",
+        "destaque": false
+      },
+      {
+        "id": "34a22b615298",
+        "tipo": "artigo",
+        "titulo": "AI leaders call for tougher protections against AI-aided bioweapons",
+        "resumo": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open letter to US lawmakers, tech leaders are pressing Congress to enact rules closing …",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+        "fonte": "The Verge",
+        "data": "2026-06-04T12:12:12",
+        "destaque": false
+      },
+      {
+        "id": "3bac1b254274",
+        "tipo": "artigo",
+        "titulo": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+        "resumo": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrat…",
+        "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+        "fonte": "MIT Tech Review",
+        "data": "2026-06-04T12:10:00",
+        "destaque": false
+      },
+      {
+        "id": "4bd8d91ed6b7",
+        "tipo": "artigo",
+        "titulo": "Yes, the Oura Ring 5 is noticeably smaller",
+        "resumo": "This is not an Oura Ring 5 review. That's coming later, once I've had enough time to really test the new durability and battery life claims, plus the new software updates that start rolling out today. In the meantime, I did want to provide an answer to a burning question that I'v…",
+        "link": "https://www.theverge.com/gadgets/942616/oura-ring-5-size-comparison-first-impressions",
+        "fonte": "The Verge",
+        "data": "2026-06-04T12:00:00",
+        "destaque": false
+      },
+      {
+        "id": "133333bc0db9",
+        "tipo": "artigo",
+        "titulo": "This Google Photos update has saved your digital photo frame",
+        "resumo": "Aura's digital photo frames will continue to automatically sync with your Google Photos albums, after API changes threatened to remove the feature. Aura is now rolling out a full migration to Google's new Ambient API, allowing your Aura frame slideshows to be automatically update…",
+        "link": "https://www.theverge.com/tech/942860/aura-frame-google-photos-api-update-auto-sync",
+        "fonte": "The Verge",
+        "data": "2026-06-04T12:00:00",
+        "destaque": false
+      },
+      {
+        "id": "1fa53ee1fd8f",
+        "tipo": "artigo",
+        "titulo": "SpaceX aims to raise record $75 bn in stock market debut",
+        "resumo": "SpaceX, the rocket and satellite company led by US billionaire Elon Musk, aims to raise approximately $75 billion in a record initial public offering, the company said in a regulatory filing on Wednesday, valuing the company at $1.765 trillion.",
+        "link": "https://phys.org/news/2026-06-spacex-aims-bn-stock-debut.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T11:50:01",
+        "destaque": false
+      },
+      {
+        "id": "d8386dbd71d9",
+        "tipo": "artigo",
+        "titulo": "From introvert to hero: The 'Hacker' revealed",
+        "resumo": "JCU Associate Professor of Information Technology Roberto Dillon has published his new historical analysis in the journal New Media & Society, explaining how gaming, movies and television representations of the Hacker have evolved over the past 30 years, creating a complex but ul…",
+        "link": "https://phys.org/news/2026-06-introvert-hero-hacker-revealed.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T11:20:02",
+        "destaque": false
+      },
+      {
+        "id": "896200c5193d",
+        "tipo": "artigo",
+        "titulo": "Used Waymo robotaxi batteries become backup storage for power grids",
+        "resumo": "Used Waymo batteries will bolster California and Texas energy storage projects.",
+        "link": "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-04T11:00:45",
+        "destaque": false
+      },
+      {
+        "id": "02e05ed6b274",
+        "tipo": "artigo",
+        "titulo": "Photoexcitation flips 2D moiré devices from metals to insulators in ultrafast test",
+        "resumo": "Quantum materials, materials with properties that are governed by the laws of quantum mechanics describing many-body interactions, have proved promising for the development of various advanced technologies. Many of these materials undergo so-called phase transitions, switching be…",
+        "link": "https://phys.org/news/2026-06-photoexcitation-flips-2d-moir-devices.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T11:00:04",
+        "destaque": false
+      },
+      {
+        "id": "4782928ecfc8",
+        "tipo": "artigo",
+        "titulo": "Detection at the nanoscale: A phosphate-detecting electrochemical sensor",
+        "resumo": "Graphene, the \"wonder material,\" has shaped much of Suprem Das's research career. From nano-manufacturing to advanced printing for applications such as sensing and energy, Das is committed to finding graphene solutions with real-world impact. Das and his team manufacture graphene…",
+        "link": "https://phys.org/news/2026-06-nanoscale-phosphate-electrochemical-sensor.html",
+        "fonte": "Phys.org",
+        "data": "2026-06-04T11:00:01",
+        "destaque": false
+      },
+      {
+        "id": "5ce61f167675",
+        "tipo": "artigo",
+        "titulo": "How courts are coping with a flood of AI-generated lawsuits",
+        "resumo": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each…",
+        "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+        "fonte": "MIT Tech Review",
+        "data": "2026-06-04T10:50:18",
+        "destaque": false
+      },
+      {
+        "id": "eff20a253b4c",
+        "tipo": "artigo",
+        "titulo": "Amazon develops a warehouse robot that workers can speak to",
+        "resumo": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward automation as the e-commerce giant replaces its human workers with robots. Amaz…",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+        "fonte": "The Verge",
+        "data": "2026-06-04T09:31:14",
+        "destaque": false
+      },
+      {
+        "id": "6daf2f09cf59",
+        "tipo": "artigo",
+        "titulo": "Stonehenge's altar stone probably wasn't transported by a glacier",
+        "resumo": "A glacier could have carried the giant sandstone at the centre of Stonehenge southwards from north-east Scotland, but this scenario appears unlikely",
+        "link": "https://www.newscientist.com/article/2529005-stonehenges-altar-stone-probably-wasnt-transported-by-a-glacier/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "fonte": "New Scientist",
+        "data": "2026-06-04T09:00:04",
+        "destaque": false
+      },
+      {
+        "id": "6320321f6114",
+        "tipo": "artigo",
+        "titulo": "Beluga whales keep switching mates and it may be saving their species",
+        "resumo": "Hidden beneath Arctic waters, beluga whales have long kept their family lives a mystery. By analyzing DNA from more than 600 belugas in Alaska’s Bristol Bay over 13 years, researchers uncovered a surprisingly flexible mating system: both males and females regularly have offspring…",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260603023921.htm",
+        "fonte": "Science Daily",
+        "data": "2026-06-04T07:51:13",
+        "destaque": false
+      },
+      {
+        "id": "3ddf8a4a0cfb",
+        "tipo": "artigo",
+        "titulo": "Shokz upgraded its open earbuds with better sound and a lighter design",
+        "resumo": "Shokz has announced two new versions of its open earbuds. Like the original OpenDots One that launched in May 2025, the new Shokz OpenDots 2 and OpenDots Air are both designed to be worn clipped to the back of your ear with their drivers positioned to project sound toward your ea…",
+        "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+        "fonte": "The Verge",
+        "data": "2026-06-04T07:00:00",
+        "destaque": false
+      },
+      {
+        "id": "364f058e6c63",
+        "tipo": "artigo",
+        "titulo": "Cancer’s favorite escape trick may actually make it easier to kill",
+        "resumo": "Scientists have uncovered a surprising new way the immune system fights cancer, overturning a core belief that has guided immunology for decades. The research found that when cancer cells shut down a key immune-recognition molecule called MHC I—a common trick used to hide from “k…",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260603023911.htm",
+        "fonte": "Science Daily",
+        "data": "2026-06-04T05:30:22",
+        "destaque": false
+      },
+      {
+        "id": "6d166f72c5f2",
+        "tipo": "artigo",
+        "titulo": "NASA's Webb detects methane and strange chemistry on interstellar comet 3I/ATLAS",
+        "resumo": "NASA's James Webb Space Telescope has uncovered unusual chemistry in interstellar comet 3I/ATLAS, including the first direct detection of methane on a visitor from another star system. The comet also contains exceptionally high levels of carbon dioxide, making it unlike most come…",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260603023116.htm",
+        "fonte": "Science Daily",
+        "data": "2026-06-04T05:17:24",
+        "destaque": false
+      },
+      {
+        "id": "53198ab02ccf",
+        "tipo": "artigo",
+        "titulo": "A Moonlit Earth as Seen From Artemis II",
+        "resumo": "An astronaut’s photo, taken en route to the Moon, reveals our planet and its place in space in a novel way.",
+        "link": "https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/",
+        "fonte": "NASA",
+        "data": "2026-06-04T04:01:00",
+        "destaque": false
+      },
+      {
+        "id": "74104266b9f7",
+        "tipo": "artigo",
+        "titulo": "Flesh-eating screwworm infection confirmed in South Texas, USDA says",
+        "resumo": "With the case confirmed, it is the fly's first breach of the US-Mexico border.",
+        "link": "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-04T02:46:35",
+        "destaque": false
+      },
+      {
+        "id": "f3ba9ab1da24",
+        "tipo": "artigo",
+        "titulo": "Curiosity Blog, Sols 4908-4912: Goodbye Campo Marte, It’s Been Fun!",
+        "resumo": "By Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, May 29, 2026 Drilling always keeps the rover in place for a little while, and our 47th successful drill, “Campo Marte,” was no exception. The team used the time wise…",
+        "link": "https://science.nasa.gov/blog/curiosity-blog-sols-4908-4912-goodbye-campo-marte-its-been-fun/",
+        "fonte": "NASA",
+        "data": "2026-06-04T01:28:11",
+        "destaque": false
+      },
+      {
+        "id": "52a2258b8020",
+        "tipo": "artigo",
+        "titulo": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+        "resumo": "Nintendo is planning to launch versions of Switch 2 hardware in the EU that will let users easily replace the battery. To meet its obligations from a new EU regulation that's set to go into effect on February 18th, 2027, Nintendo says on its website that it is \"implementing measu…",
+        "link": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+        "fonte": "The Verge",
+        "data": "2026-06-04T00:04:04",
+        "destaque": false
+      },
+      {
+        "id": "73313ff7ce2a",
+        "tipo": "artigo",
+        "titulo": "Device could sniff out fusion reactors secretly making material for a nuclear bomb",
+        "resumo": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01764-6 Antineutrinos made alongside the production of weapons-grade plutonium could be spotted with existing technology.",
+        "link": "https://www.nature.com/articles/d41586-026-01764-6",
+        "fonte": "Nature",
+        "data": "2026-06-04T00:00:00",
+        "destaque": false
+      },
+      {
+        "id": "c61b595622b7",
+        "tipo": "artigo",
+        "titulo": "This mysterious lung disease affects millions of people — but a drug tested in mice shows promise",
+        "resumo": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01789-x The therapy activates a protein that could stop pulmonary fibrosis from progressing.",
+        "link": "https://www.nature.com/articles/d41586-026-01789-x",
+        "fonte": "Nature",
+        "data": "2026-06-04T00:00:00",
+        "destaque": false
+      },
+      {
+        "id": "4f8ac9677c02",
+        "tipo": "artigo",
+        "titulo": "What’s behind China’s historically high counts of corresponding authors?",
+        "resumo": "Nature, Published online: 04 June 2026; doi:10.1038/d41586-026-01623-4 From 2016 to 2020, almost one-third of papers by authors in China had multiple corresponding authors — but policy reforms are expected to have dampened the trend.",
+        "link": "https://www.nature.com/articles/d41586-026-01623-4",
+        "fonte": "Nature",
+        "data": "2026-06-04T00:00:00",
+        "destaque": false
+      },
+      {
+        "id": "5a4be48612d0",
+        "tipo": "artigo",
+        "titulo": "Microsoft, Atom Computing, EeroQ update their quantum computing progress",
+        "resumo": "Some quantum computing companies we've covered have done recent progress updates.",
+        "link": "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-03T22:09:41",
+        "destaque": false
+      },
+      {
+        "id": "51bcf53c6fe1",
+        "tipo": "artigo",
+        "titulo": "Google ordered to put clearer links in AI search and let UK publishers opt out",
+        "resumo": "Google must change AI Overviews after claiming users don't want \"lots of sources.\"",
+        "link": "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-03T20:26:51",
+        "destaque": false
+      },
+      {
+        "id": "d77b2f8369cd",
+        "tipo": "artigo",
+        "titulo": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+        "resumo": "Security advisory leaves out key details. Dashlane maintains complete silence.",
+        "link": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-03T19:53:14",
+        "destaque": false
+      },
+      {
+        "id": "3c0281fae08d",
+        "tipo": "artigo",
+        "titulo": "Google's new Gemma 4 12B model is designed to run on any laptop with 16GB of RAM",
+        "resumo": "Gemma 4 12B uses a new encoding scheme and token prediction to punch above its weight.",
+        "link": "https://arstechnica.com/google/2026/06/googles-new-gemma-4-open-ai-model-is-sized-for-your-laptop/",
+        "fonte": "Ars Technica",
+        "data": "2026-06-03T19:10:03",
+        "destaque": false
+      },
+      {
+        "id": "add6a39dc4ee",
+        "tipo": "artigo",
+        "titulo": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
+        "resumo": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The st…",
+        "link": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
+        "fonte": "NASA",
+        "data": "2026-06-03T18:01:00",
+        "destaque": false
+      },
+      {
+        "id": "b0766eff175e",
+        "tipo": "artigo",
+        "titulo": "The looming El Niño could be bad – but much worse is to come",
+        "resumo": "Global warming will amplify the impacts of El Ni&ntilde;o events, and could also make them much stronger and more far-reaching",
+        "link": "https://www.newscientist.com/article/2529026-the-looming-el-nino-could-be-bad-but-much-worse-is-to-come/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "fonte": "New Scientist",
+        "data": "2026-06-03T18:00:37",
+        "destaque": false
+      },
+      {
+        "id": "7c5cdcc431c1",
+        "tipo": "artigo",
+        "titulo": "New Scientist recommends a deep dive into our organs by Giulia Enders",
+        "resumo": "Giulia Enders made her name with Gut, an exploration of our intestines. Now, in the compelling follow-up Organ Speak, she’s listening to what our other organs are telling us",
+        "link": "https://www.newscientist.com/article/mg27035982-000-new-scientist-recommends-a-deep-dive-into-our-organs-by-giulia-enders/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "fonte": "New Scientist",
+        "data": "2026-06-03T18:00:00",
+        "destaque": false
+      },
+      {
+        "id": "5ca85dc1e538",
+        "tipo": "artigo",
+        "titulo": "International Sea Level Satellite Observes El Niño Precursor",
+        "resumo": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm…",
+        "link": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
+        "fonte": "NASA",
+        "data": "2026-06-03T17:27:22",
+        "destaque": false
+      },
+      {
+        "id": "372581ecc666",
+        "tipo": "artigo",
+        "titulo": "How virtual power plants could provide energy for data centers",
+        "resumo": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus…",
+        "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "fonte": "MIT Tech Review",
+        "data": "2026-06-03T16:51:38",
+        "destaque": false
+      },
+      {
+        "id": "f27f4aea5944",
+        "tipo": "artigo",
+        "titulo": "CERN’s new chief on the gamble that could fix our picture of reality",
+        "resumo": "Mark Thomson has taken the reins at CERN just as particle physics confronts some of its deepest unknowns – and faces hard choices about what comes next",
+        "link": "https://www.newscientist.com/article/2527353-cerns-new-chief-on-the-gamble-that-could-fix-our-picture-of-reality/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "fonte": "New Scientist",
+        "data": "2026-06-03T16:00:58",
+        "destaque": false
+      },
+      {
+        "id": "eb84212817a8",
+        "tipo": "artigo",
+        "titulo": "Earth has a mysterious triple symmetry that may influence its climate",
+        "resumo": "A circle running along the 27° east and 153° west meridians divides the globe into two halves with equal reflectivity – and this may have implications for solar geoengineering schemes",
+        "link": "https://www.newscientist.com/article/2528962-earth-has-a-mysterious-triple-symmetry-that-may-influence-its-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+        "fonte": "New Scientist",
+        "data": "2026-06-03T16:00:31",
+        "destaque": false
+      },
+      {
+        "id": "ce3d16d7c834",
+        "tipo": "artigo",
+        "titulo": "Venus will disappear behind the Moon in a rare June sky event",
+        "resumo": "June's night sky delivers several must-see events, starting with a close encounter between Venus and Jupiter after sunset. Mercury joins the pair to form a rare three-planet lineup, while the Moon puts on a special show by passing in front of Venus for viewers in parts of the Ame…",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260603023107.htm",
+        "fonte": "Science Daily",
+        "data": "2026-06-03T15:54:24",
+        "destaque": false
+      },
+      {
+        "id": "3792aa50a45b",
+        "tipo": "artigo",
+        "titulo": "Journey to the Center of the Virgo Cluster",
+        "resumo": "The focus of this NASA/ESA&#160;Hubble&#160;Space Telescope&#160;image&#160;released on May 29, 2026, is an active&#160;spiral galaxy&#160;on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-ye…",
+        "link": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
+        "fonte": "NASA",
+        "data": "2026-06-03T15:48:44",
+        "destaque": false
+      },
+      {
+        "id": "17fa6d094131",
+        "tipo": "artigo",
+        "titulo": "Scientists simulated a nuclear fireball and found a surprise in the fallout",
+        "resumo": "Scientists at Lawrence Livermore National Laboratory recreated part of the intense chaos inside a nuclear fireball to better understand how radioactive fallout forms. Their experiments revealed that the way vaporized materials cool can dramatically change the particles that event…",
+        "link": "https://www.sciencedaily.com/releases/2026/06/260603023104.htm",
+        "fonte": "Science Daily",
+        "data": "2026-06-03T14:25:48",
+        "destaque": false
+      },
+      {
         "id": "e924837d376f",
         "tipo": "artigo",
         "titulo": "Ancient DNA offers hope for California's critically endangered black abalone",
@@ -9,7 +399,7 @@
         "link": "https://phys.org/news/2026-06-ancient-dna-california-critically-endangered.html",
         "fonte": "Phys.org",
         "data": "2026-06-03T14:20:09",
-        "destaque": true
+        "destaque": false
       },
       {
         "id": "65f0ff2f077f",
@@ -210,399 +600,169 @@
         "fonte": "The Verge",
         "data": "2026-06-03T08:45:48",
         "destaque": false
-      },
-      {
-        "id": "ce425f3e6f5c",
-        "tipo": "artigo",
-        "titulo": "Scientists discovered something surprising about french fries and diabetes",
-        "resumo": "French fries may be the real potato problem. A large study tracking more than 205,000 people for nearly 40 years found that eating three servings of fries per week was linked to a 20% higher risk of developing type 2 diabetes, while baked, boiled, or mashed potatoes showed no sig…",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260603015218.htm",
-        "fonte": "Science Daily",
-        "data": "2026-06-03T06:14:01",
-        "destaque": false
-      },
-      {
-        "id": "3a6b4bd64f42",
-        "tipo": "artigo",
-        "titulo": "Typhoon Jangmi",
-        "resumo": "The sprawling storm promised to deliver torrential rain across a wide swath of southern Japan.",
-        "link": "https://science.nasa.gov/earth/earth-observatory/typhoon-jangmi/",
-        "fonte": "NASA",
-        "data": "2026-06-03T04:00:00",
-        "destaque": false
-      },
-      {
-        "id": "cab12914e284",
-        "tipo": "artigo",
-        "titulo": "Ötzi's frozen remains may harbour metabolically active microbes",
-        "resumo": "Researchers studying a 5300-year-old mummified man have identified bacteria that lived in his gut when he was alive, as well as cold-tolerant fungi that colonised his body after death",
-        "link": "https://www.newscientist.com/article/2528789-otzis-frozen-remains-may-harbour-metabolically-active-microbes/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-03T01:00:01",
-        "destaque": false
-      },
-      {
-        "id": "c21fb9aa78c1",
-        "tipo": "artigo",
-        "titulo": "Why a synthetic human genome is still worth building",
-        "resumo": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01725-z A decade on from the launch of an ambitious project, it’s time to revisit the reasons for constructing a human genome from scratch.",
-        "link": "https://www.nature.com/articles/d41586-026-01725-z",
-        "fonte": "Nature",
-        "data": "2026-06-03T00:00:00",
-        "destaque": false
-      },
-      {
-        "id": "c21eb0c3fcfc",
-        "tipo": "artigo",
-        "titulo": "Book of Cron Job",
-        "resumo": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01716-0 Code of conduct.",
-        "link": "https://www.nature.com/articles/d41586-026-01716-0",
-        "fonte": "Nature",
-        "data": "2026-06-03T00:00:00",
-        "destaque": false
-      },
-      {
-        "id": "19fc3ce8a2a8",
-        "tipo": "artigo",
-        "titulo": "Microsoft upgrades controversial quantum chip — researchers are still sceptical",
-        "resumo": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01788-y The tech giant says it will make ‘topological’ quantum computers that can be scaled up faster than competing technologies.",
-        "link": "https://www.nature.com/articles/d41586-026-01788-y",
-        "fonte": "Nature",
-        "data": "2026-06-03T00:00:00",
-        "destaque": false
-      },
-      {
-        "id": "9f5da80eaaf8",
-        "tipo": "artigo",
-        "titulo": "Can an army of babies and dogs rescue psychology from its reproducibility crisis?",
-        "resumo": "Nature, Published online: 03 June 2026; doi:10.1038/d41586-026-01727-x Labs are teaming up to run a host of huge projects that aim to bring rigour to cognitive science.",
-        "link": "https://www.nature.com/articles/d41586-026-01727-x",
-        "fonte": "Nature",
-        "data": "2026-06-03T00:00:00",
-        "destaque": false
-      },
-      {
-        "id": "5ddc9fc00403",
-        "tipo": "artigo",
-        "titulo": "Male bowerbirds prefer to dazzle females with bright human-made items",
-        "resumo": "\"It’s a reminder of how human activity is changing the natural world in unanticipated ways.”",
-        "link": "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T23:05:31",
-        "destaque": false
-      },
-      {
-        "id": "a5f4c1e8e1b4",
-        "tipo": "artigo",
-        "titulo": "Microsoft plans Linux tools and an RTX Spark desktop for Windows developers",
-        "resumo": "One hardware announcement and several software highlights from Microsoft Build.",
-        "link": "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T22:51:10",
-        "destaque": false
-      },
-      {
-        "id": "e0a80cc3cc57",
-        "tipo": "artigo",
-        "titulo": "NASA Space Roboticist Challenge",
-        "resumo": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qua…",
-        "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
-        "fonte": "NASA",
-        "data": "2026-06-02T20:56:53",
-        "destaque": false
-      },
-      {
-        "id": "d423614adc56",
-        "tipo": "artigo",
-        "titulo": "Microsoft's Project Solara is an Android OS designed for agents instead of apps",
-        "resumo": "Microsoft missed the boat on apps, so get ready for agents.",
-        "link": "https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T20:47:54",
-        "destaque": false
-      },
-      {
-        "id": "513ee3e8aaac",
-        "tipo": "artigo",
-        "titulo": "Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
-        "resumo": "Lawsuit: Ring cameras scan guests and passersby and use AI to identify faces.",
-        "link": "https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T20:17:41",
-        "destaque": false
-      },
-      {
-        "id": "2f6d5ce029a9",
-        "tipo": "artigo",
-        "titulo": "Why you need to future proof your brain in middle age and how to start",
-        "resumo": "Ages 40 to 65 see a period of turmoil in the brain that has previously been overlooked. But identifying problems during this time can protect your cognitive health for decades to come",
-        "link": "https://www.newscientist.com/article/2526727-why-you-need-to-future-proof-your-brain-in-middle-age-and-how-to-start/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-02T18:00:03",
-        "destaque": false
-      },
-      {
-        "id": "6526839c0bdd",
-        "tipo": "artigo",
-        "titulo": "How the electromagnetic spectrum opened our eyes to the universe",
-        "resumo": "Our understanding of the electromagnetic spectrum goes back to Isaac Newton, but astronomers are still finding new ways to employ it. Astrophysicist Emma Chapman explores how much these invisible waves can reveal to us about the cosmos – and whether they might show us that we’re …",
-        "link": "https://www.newscientist.com/article/2528422-how-the-electromagnetic-spectrum-opened-our-eyes-to-the-universe/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-02T18:00:00",
-        "destaque": false
-      },
-      {
-        "id": "8569338d77e7",
-        "tipo": "artigo",
-        "titulo": "The best new popular science books of June 2026",
-        "resumo": "The most exciting popular science reads this month explore everything from symbiosis to hormones, while Alice Roberts takes on an editor-in-chief role in her latest book",
-        "link": "https://www.newscientist.com/article/2528852-the-best-new-popular-science-books-of-june-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-02T16:30:52",
-        "destaque": false
-      },
-      {
-        "id": "acbda480029c",
-        "tipo": "artigo",
-        "titulo": "Look Up!",
-        "resumo": "Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola, monitoring the automated approach and docking of the SpaceX Dragon cargo spacecraft to the International Space Station on May 1…",
-        "link": "https://www.nasa.gov/image-article/look-up/",
-        "fonte": "NASA",
-        "data": "2026-06-02T16:06:20",
-        "destaque": false
-      },
-      {
-        "id": "ab6e775b7a01",
-        "tipo": "artigo",
-        "titulo": "Hearing loss is bad for the whole body – but new treatments are coming",
-        "resumo": "From dementia to heart attacks, hearing loss has been linked to a wide range of effects across the body, and the condition is on the rise. Fortunately, we're learning how best to safeguard this crucial sense and how we might be able to reverse the damage",
-        "link": "https://www.newscientist.com/article/2527617-hearing-loss-is-bad-for-the-whole-body-but-new-treatments-are-coming/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-02T16:00:31",
-        "destaque": false
-      },
-      {
-        "id": "3e57d15f6bf4",
-        "tipo": "artigo",
-        "titulo": "Hidden store of manganese may have helped Earth get its oxygen",
-        "resumo": "Computer simulations have uncovered a new manganese compound that could exist deep in Earth’s mantle and may be connected to the process that gave our atmosphere oxygen",
-        "link": "https://www.newscientist.com/article/2528586-hidden-store-of-manganese-may-have-helped-earth-get-its-oxygen/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
-        "fonte": "New Scientist",
-        "data": "2026-06-02T16:00:23",
-        "destaque": false
-      },
-      {
-        "id": "0a434135232c",
-        "tipo": "artigo",
-        "titulo": "A single protein may be holding back CAR T cancer therapy",
-        "resumo": "A newly identified protein may be one of the biggest obstacles holding CAR T-cell therapy back. Researchers found that NFIL3 causes these engineered immune cells to become exhausted and lose their cancer-fighting power over time. When NFIL3 was disabled, the cells remained strong…",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260602021641.htm",
-        "fonte": "Science Daily",
-        "data": "2026-06-02T14:54:02",
-        "destaque": false
-      },
-      {
-        "id": "3f5bfa1c168a",
-        "tipo": "artigo",
-        "titulo": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-        "resumo": "A mobile wastewater treatment system built at NASA&#8217;s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the universit…",
-        "link": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-        "fonte": "NASA",
-        "data": "2026-06-02T14:31:18",
-        "destaque": false
-      },
-      {
-        "id": "b33db478ab28",
-        "tipo": "artigo",
-        "titulo": "Active fault mapped for first time in New Zealand's largest city",
-        "resumo": "A fault line running alongside the Hunua Ranges in South Auckland is now identified as active and has the potential to cause a major earthquake with serious consequences, University of Auckland researchers say.",
-        "link": "https://phys.org/news/2026-06-fault-zealand-largest-city.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T14:00:06",
-        "destaque": false
-      },
-      {
-        "id": "8d8be58bd609",
-        "tipo": "artigo",
-        "titulo": "Vultures on the rise: Study provides evidence of population increase and delayed migration in western North America",
-        "resumo": "Turkey vultures (Cathartes aura) may not be beautiful, but they are certainly adaptable. A new study published in the Journal of Raptor Research, titled \"Turkey Vulture Aggregations at a Water Barrier Provide Evidence of Later Migration and Increasing Population Size Over 25 Year…",
-        "link": "https://phys.org/news/2026-06-vultures-evidence-population-delayed-migration.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T14:00:06",
-        "destaque": false
-      },
-      {
-        "id": "b9e79cf9c5e3",
-        "tipo": "artigo",
-        "titulo": "For satellites as small as a briefcase, getting around in space just got a whole lot easier",
-        "resumo": "MIT engineers are testing a new propulsion system that combines the power and speed of conventional chemical thrusters with the precision and fuel-efficiency of electrical thrusters. The system could enable the design of nimbler, more flexible small satellites, which could perfor…",
-        "link": "https://phys.org/news/2026-06-satellites-small-briefcase-space-lot.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T14:00:01",
-        "destaque": false
-      },
-      {
-        "id": "87409aba684a",
-        "tipo": "artigo",
-        "titulo": "Why researcher independence doesn't start or end with a PhD",
-        "resumo": "A Ph.D. is often treated as the point where scholars become \"independent.\" Yet, a new study by Hiroshima University shows that achieving independence is far less simple and tidy, unfolding instead as a long, uneven, river-like journey shaped by relationships, risks and resilience…",
-        "link": "https://phys.org/news/2026-06-independence-doesnt-phd.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T13:40:10",
-        "destaque": false
-      },
-      {
-        "id": "de7da4d1baec",
-        "tipo": "artigo",
-        "titulo": "Biohybrid microrobots repair spinal cord by combining stem cells with magnetoelectric nanoparticles",
-        "resumo": "Spinal cord injuries can have devastating consequences for those affected. Nerve cells in the spinal cord rarely regenerate naturally, while scarring often prevents the regrowth of nerve fibers. Modern therapies attempt to influence implanted stem cells using electrical stimulati…",
-        "link": "https://phys.org/news/2026-06-biohybrid-microrobots-spinal-cord-combining.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T13:40:01",
-        "destaque": false
-      },
-      {
-        "id": "8d59bdd2e2c0",
-        "tipo": "artigo",
-        "titulo": "Trump's DOE restarts energy rebate program with dumb conditions",
-        "resumo": "Switching from fossil fuels to electricity for heating is no longer covered.",
-        "link": "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T13:29:00",
-        "destaque": false
-      },
-      {
-        "id": "6b6915e60192",
-        "tipo": "artigo",
-        "titulo": "Lego’s Smart Play Pokémon can train and battle, but don’t do the one thing I wish they could",
-        "resumo": "When Lego announced its tech-packed Smart Bricks at CES, we were impressed by the potential - enough to give it our Best in Show award. But when the first Star Wars sets actually launched in March, we were less enamored. All that promise of clever interaction and creative play ul…",
-        "link": "https://www.theverge.com/gadgets/941484/lego-pokemon-smart-play-brick-sets",
-        "fonte": "The Verge",
-        "data": "2026-06-02T13:28:27",
-        "destaque": false
-      },
-      {
-        "id": "d054085267ba",
-        "tipo": "artigo",
-        "titulo": "Nanoparticles boost delivery of lung cancer drugs 30-fold",
-        "resumo": "Lung cancer remains one of the world's deadliest cancers, yet despite decades of effort to develop new drugs, many fail because they don't stay in the body long enough to be effective or because they damage healthy organs. Now, Adelaide University researchers have developed a nov…",
-        "link": "https://phys.org/news/2026-06-nanoparticles-boost-delivery-lung-cancer.html",
-        "fonte": "Phys.org",
-        "data": "2026-06-02T13:20:04",
-        "destaque": false
-      },
-      {
-        "id": "92f5d6fda1f5",
-        "tipo": "artigo",
-        "titulo": "Thermacell&#8217;s latest smart mosquito system is bigger and more expensive",
-        "resumo": "Thermacell has launched Liv 2.0, the next generation of its Wi-Fi-connected smart mosquito protection system. It features new hardware and can cover a larger area, and Thermacell says its formula can now deter no-see-ums. But it's also more expensive and requires professional ins…",
-        "link": "https://www.theverge.com/tech/941146/liv-2-dot-0-smart-mosquito-repellent-system-thermacell",
-        "fonte": "The Verge",
-        "data": "2026-06-02T13:00:00",
-        "destaque": false
-      },
-      {
-        "id": "32812fbfb3e3",
-        "tipo": "artigo",
-        "titulo": "Amazon’s four-day Prime Day begins on June 23rd",
-        "resumo": "Amazon bucked its usual tradition of having Prime Day in July. Prime Day 2026 is happening in June, kicking off in just a few weeks. Prime members will get access to many deals starting June 23rd at 3:01AM ET through June 27th at 3:01AM ET. As with Amazon’s previous events, you d…",
-        "link": "https://www.theverge.com/gadgets/940021/amazon-prime-day-2026-june-dates-deals",
-        "fonte": "The Verge",
-        "data": "2026-06-02T12:38:59",
-        "destaque": false
-      },
-      {
-        "id": "fd9c1b9741f0",
-        "tipo": "artigo",
-        "titulo": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-        "resumo": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do, check …",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-        "fonte": "The Verge",
-        "data": "2026-06-02T12:38:08",
-        "destaque": false
-      },
-      {
-        "id": "ddafa86cc40b",
-        "tipo": "artigo",
-        "titulo": "The Download: AI can run your admin department now",
-        "resumo": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering br…",
-        "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-        "fonte": "MIT Tech Review",
-        "data": "2026-06-02T12:10:00",
-        "destaque": false
-      },
-      {
-        "id": "580660c7580b",
-        "tipo": "artigo",
-        "titulo": "Impulse Space raises $500 million as orbital maneuvering race heats up",
-        "resumo": "\"The market's going to continue to find exciting new things.\"",
-        "link": "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
-        "fonte": "Ars Technica",
-        "data": "2026-06-02T12:00:54",
-        "destaque": false
-      },
-      {
-        "id": "a03cf56841ba",
-        "tipo": "artigo",
-        "titulo": "People are leaving a lot of weird stuff in their robotaxis",
-        "resumo": "A unicorn Beanie Baby. A 15-pound green bowling ball. A pair of dentures. These are just some of the items left behind in robotaxis in the past year, according to Uber's annual Lost and Found Index. For the first time, the company is expanding its annual of accounting of things f…",
-        "link": "https://www.theverge.com/transportation/941150/uber-lost-found-robotaxi-items-waymo-motional-avride",
-        "fonte": "The Verge",
-        "data": "2026-06-02T12:00:00",
-        "destaque": false
-      },
-      {
-        "id": "3a50639b3ff7",
-        "tipo": "artigo",
-        "titulo": "Rehumanizing global health care with agentic AI",
-        "resumo": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care …",
-        "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-        "fonte": "MIT Tech Review",
-        "data": "2026-06-02T11:23:34",
-        "destaque": false
-      },
-      {
-        "id": "3bd8cb7d9414",
-        "tipo": "artigo",
-        "titulo": "A stellar “Rosetta stone” reveals the source of mysterious cosmic signals",
-        "resumo": "Astronomers have finally cracked the mystery behind a strange class of repeating cosmic signals that has baffled scientists for years. Using Australia’s ASKAP radio telescope, researchers traced the bursts to a rare stellar duo in which a dense white dwarf is relentlessly siphoni…",
-        "link": "https://www.sciencedaily.com/releases/2026/06/260602021631.htm",
-        "fonte": "Science Daily",
-        "data": "2026-06-02T11:08:18",
-        "destaque": false
-      },
-      {
-        "id": "29693b3b0c28",
-        "tipo": "artigo",
-        "titulo": "How to watch Microsoft’s Build 2026 conference",
-        "resumo": "Microsoft is kicking off its yearly Build developer conference in San Francisco today, sandwiched between the recent Google I/O and Apple's upcoming WWDC event. While tickets to attend Build in person are sold out, the conference is being streamed for free online, with CEO Satya …",
-        "link": "https://www.theverge.com/tech/941379/microsoft-build-conference-2026-how-to-watch-livestream",
-        "fonte": "The Verge",
-        "data": "2026-06-02T11:00:00",
-        "destaque": false
-      },
-      {
-        "id": "e6b82504f510",
-        "tipo": "artigo",
-        "titulo": "How small businesses can leverage AI",
-        "resumo": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skill…",
-        "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-        "fonte": "MIT Tech Review",
-        "data": "2026-06-02T09:00:00",
-        "destaque": false
-      },
-      {
-        "id": "515152c94149",
-        "tipo": "artigo",
-        "titulo": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
-        "resumo": "Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said…",
-        "link": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
-        "fonte": "NASA",
-        "data": "2026-06-02T09:00:00",
-        "destaque": false
       }
     ],
     "economy": [
+      {
+        "id": "5a7d9ceb1247",
+        "tipo": "artigo",
+        "titulo": "Morgan Stanley Sees Zambia Lift Eurobond Price to Break Impasse",
+        "resumo": "Morgan Stanley expects Zambia to revise its bond buyback offer higher in a bid to break an impasse with a group of bondholders resisting an initial price tabled almost a week ago.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-04/morgan-stanley-sees-zambia-lift-eurobond-price-to-break-impasse",
+        "fonte": "Bloomberg",
+        "data": "2026-06-04T12:29:53",
+        "destaque": true
+      },
+      {
+        "id": "d421f60d49f3",
+        "tipo": "artigo",
+        "titulo": "Apollo’s Zelter Sees High-Grade Debt Sales Topping US Treasuries",
+        "resumo": "Investment-grade debt sales will outpace net issuance of US Treasuries this year, Apollo Global Management Inc.’s President Jim Zelter said, as the Magnificent Seven tech companies and others seek massive amounts of funding to fuel their expansion.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-04/apollo-s-zelter-sees-high-grade-debt-sales-topping-us-treasuries",
+        "fonte": "Bloomberg",
+        "data": "2026-06-04T12:29:49",
+        "destaque": false
+      },
+      {
+        "id": "7a8ac7a782aa",
+        "tipo": "artigo",
+        "titulo": "Nasdaq 100 Futures Drop as Broadcom Forecast Spooks Traders",
+        "resumo": "A selloff in technology stocks pushed US stocks lower before the bell on Thursday, as results from Broadcom Inc. forced an unwind in the artificial-intelligence trade that had powered gains over the last several sessions.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-04/nasdaq-100-futures-drop-as-broadcom-forecast-spooks-traders",
+        "fonte": "Bloomberg",
+        "data": "2026-06-04T12:20:40",
+        "destaque": false
+      },
+      {
+        "id": "db487df65a64",
+        "tipo": "artigo",
+        "titulo": "Blackstone caps withdrawals from flagship private credit fund",
+        "resumo": "Redemption requests surged to $4.5bn in the second quarter amid mounting fears in sector",
+        "link": "https://www.ft.com/content/4eca0255-27e7-47cc-8ebf-c9cc00c62e29",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T12:11:20",
+        "destaque": false
+      },
+      {
+        "id": "b2346bfd3f28",
+        "tipo": "artigo",
+        "titulo": "Keir Starmer blasts Elon Musk for ‘interfering’ in UK politics",
+        "resumo": "Tech billionaire has made 110 posts, retweets and replies about Britain in the past week",
+        "link": "https://www.ft.com/content/368d0d8d-8d6b-4060-bd7b-17c0034cf174",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T11:57:27",
+        "destaque": false
+      },
+      {
+        "id": "5320bb6d5c39",
+        "tipo": "artigo",
+        "titulo": "What if Andy Burnham loses?",
+        "resumo": "Defeat would encourage Labour to believe the next election will be won by uniting voters on the left",
+        "link": "https://www.ft.com/content/680cbe3f-c067-411f-b7dd-cf461e9e664d",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T11:43:25",
+        "destaque": false
+      },
+      {
+        "id": "8b1529760036",
+        "tipo": "artigo",
+        "titulo": "Buyout and Debt Funds Struggle With $632 Billion Stockpile",
+        "resumo": "Private markets firms have been slow to spend hoards of capital raised earlier this decade, sparking tough talks with investors about whether they should get more time to find investments.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-04/buyout-and-debt-funds-struggle-to-spend-632-billion-stockpile",
+        "fonte": "Bloomberg",
+        "data": "2026-06-04T10:47:14",
+        "destaque": false
+      },
+      {
+        "id": "e440c9212d90",
+        "tipo": "artigo",
+        "titulo": "Reform given another £3mn by crypto billionaire Harborne",
+        "resumo": "Latest data underscores how Farage’s party remains reliant on a handful of rich donors",
+        "link": "https://www.ft.com/content/091c6713-5f3f-4c5c-8616-8a3ea38cf3cc",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T10:36:36",
+        "destaque": false
+      },
+      {
+        "id": "eb508a613190",
+        "tipo": "artigo",
+        "titulo": "Indians can now bet on the monsoon",
+        "resumo": "Heatwaves may be more important",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/04/indians-can-now-bet-on-the-monsoon",
+        "fonte": "The Economist",
+        "data": "2026-06-04T09:48:11",
+        "destaque": false
+      },
+      {
+        "id": "025bd59f6cae",
+        "tipo": "artigo",
+        "titulo": "European electricity markets have too much power",
+        "resumo": "They must learn to deal with it",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power",
+        "fonte": "The Economist",
+        "data": "2026-06-04T09:37:28",
+        "destaque": false
+      },
+      {
+        "id": "8d11574f4d67",
+        "tipo": "artigo",
+        "titulo": "Some billionaires pay too little tax",
+        "resumo": "But the case for levies on wealth is unconvincing",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/04/some-billionaires-pay-too-little-tax",
+        "fonte": "The Economist",
+        "data": "2026-06-04T09:18:42",
+        "destaque": false
+      },
+      {
+        "id": "0c77de456250",
+        "tipo": "artigo",
+        "titulo": "Gen-Z socialism, from Zohran to Zack and beyond",
+        "resumo": "The world’s leftists are embracing a new set of economic ideas",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/04/gen-z-socialism-from-zohran-to-zack-and-beyond",
+        "fonte": "The Economist",
+        "data": "2026-06-04T09:11:24",
+        "destaque": false
+      },
+      {
+        "id": "939e2d794653",
+        "tipo": "artigo",
+        "titulo": "Disparities between ethnic groups are not always cause for alarm",
+        "resumo": "Different outcomes merit investigation, but we should not assume reducing the gaps is desirable or necessary",
+        "link": "https://www.ft.com/content/e3de7929-6baf-4432-8306-62d8b01c6566",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T08:30:03",
+        "destaque": false
+      },
+      {
+        "id": "7d617c88456e",
+        "tipo": "artigo",
+        "titulo": "Anthropic’s relentless race to the top",
+        "resumo": "Can the AI company hold on to its ethical founding principles as it strides to market with its most powerful and unnerving tool yet?",
+        "link": "https://www.ft.com/content/e17665ea-c5ca-428a-839c-be5c1eacc35c",
+        "fonte": "Financial Times",
+        "data": "2026-06-04T04:00:23",
+        "destaque": false
+      },
+      {
+        "id": "95d96cce843f",
+        "tipo": "artigo",
+        "titulo": "Nasdaq Futures Tumble as Broadcom Tests AI Trade: Markets Wrap",
+        "resumo": "Stocks fell after a disappointing outlook from Broadcom Inc. triggered concern that the blistering rally in technology shares had gone too far.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
+        "fonte": "Bloomberg",
+        "data": "2026-06-03T22:04:45",
+        "destaque": false
+      },
+      {
+        "id": "85cf4e3555c9",
+        "tipo": "artigo",
+        "titulo": "Oil Falls After Israel-Lebanon Ceasefire Even as Clashes Persist",
+        "resumo": "Oil fell as a conditional ceasefire between Israel and Lebanon offered to ease the way toward a US-Iran peace deal, even as the truce was marred by ongoing clashes.",
+        "link": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
+        "fonte": "Bloomberg",
+        "data": "2026-06-03T22:01:29",
+        "destaque": false
+      },
       {
         "id": "d27e1ee81d0c",
         "tipo": "artigo",
@@ -611,7 +771,7 @@
         "link": "https://www.bloomberg.com/news/articles/2026-06-03/private-credit-marks-drawing-more-scrutiny-from-sdny-prosecutors",
         "fonte": "Bloomberg",
         "data": "2026-06-03T14:28:18",
-        "destaque": true
+        "destaque": false
       },
       {
         "id": "6fca644a4eaa",
@@ -864,6 +1024,16 @@
         "destaque": false
       },
       {
+        "id": "0eab7ca68177",
+        "tipo": "artigo",
+        "titulo": "Can the stockmarket swallow SpaceX, Anthropic and OpenAI?",
+        "resumo": "Watch out for indigestion",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-spacex-anthropic-and-openai",
+        "fonte": "The Economist",
+        "data": "2026-06-01T17:16:55",
+        "destaque": false
+      },
+      {
         "id": "b01daecc018b",
         "tipo": "artigo",
         "titulo": "Mercedes-AMG Launches GT Luxury Performance EV",
@@ -1032,179 +1202,69 @@
         "fonte": "Bloomberg",
         "data": "2026-05-31T08:13:17",
         "destaque": false
-      },
-      {
-        "id": "bbfc1bc7520f",
-        "tipo": "artigo",
-        "titulo": "African Development Bank Allots $650 Million for Uganda Railroad",
-        "resumo": "Uganda said the African Development Bank has tentatively allocated about $650 million to partly fund the construction of a railway linking the capital, Kampala, to Malaba at the Kenyan border.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-31/african-development-bank-allots-650-million-for-uganda-railroad",
-        "fonte": "Bloomberg",
-        "data": "2026-05-31T08:09:18",
-        "destaque": false
-      },
-      {
-        "id": "67bc066ea101",
-        "tipo": "artigo",
-        "titulo": "Saudi Contractor’s Owners Seek Up To $800 Million in Riyadh IPO",
-        "resumo": "Saudi Arabia’s Mutlaq Al-Ghowairi Contracting Co.’s shareholders are seeking up to 3 billion riyals ($799 million) in a Riyadh initial public offering, in what would be the Gulf’s first major listing this year.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-31/saudi-contractor-s-owners-seek-up-to-800-million-in-riyadh-ipo",
-        "fonte": "Bloomberg",
-        "data": "2026-05-31T06:49:25",
-        "destaque": false
-      },
-      {
-        "id": "87b120801b20",
-        "tipo": "artigo",
-        "titulo": "Zack Polanski’s journey from Liberal Democrat convert to Green leader",
-        "resumo": "Leftwing politician faces allegations that he misled the public on issues such as his career",
-        "link": "https://www.ft.com/content/2c3ade6d-f6f9-472a-a18d-6e0bb294495e",
-        "fonte": "Financial Times",
-        "data": "2026-05-31T04:00:17",
-        "destaque": false
-      },
-      {
-        "id": "7be1edc9b4a9",
-        "tipo": "artigo",
-        "titulo": "Top health official held shares in key children’s home operator",
-        "resumo": "Samantha Jones, permanent secretary at the Department of Health and Social Care, had multiple private-sector interests",
-        "link": "https://www.ft.com/content/710edf8e-35a5-4efa-afca-89d40d796aea",
-        "fonte": "Financial Times",
-        "data": "2026-05-31T04:00:09",
-        "destaque": false
-      },
-      {
-        "id": "c25962ebe446",
-        "tipo": "artigo",
-        "titulo": "AI is here. What do you want from it?",
-        "resumo": "The technology’s development belongs to everyone — share your vision with us",
-        "link": "https://www.ft.com/content/da80e72b-31e5-42ca-995c-5fc7d457915e",
-        "fonte": "Financial Times",
-        "data": "2026-05-31T04:00:08",
-        "destaque": false
-      },
-      {
-        "id": "6f79d9b165b3",
-        "tipo": "artigo",
-        "titulo": "US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate",
-        "resumo": "Jobs week is coming up in the US, with a whole slate of indicators on the state of the labor market culminating on Friday with the government’s official report on employment for the month of May.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T20:00:00",
-        "destaque": false
-      },
-      {
-        "id": "805435a056e0",
-        "tipo": "artigo",
-        "titulo": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France",
-        "resumo": "Masayoshi Son places France at the centre of his global AI ambitions",
-        "link": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
-        "fonte": "Financial Times",
-        "data": "2026-05-30T18:39:31",
-        "destaque": false
-      },
-      {
-        "id": "fd0403148091",
-        "tipo": "artigo",
-        "titulo": "Hegseth Hails China Relationship at Defense Summit",
-        "resumo": "Jabs at European allies and talks of stable US-China ties &mdash; Defense Secretary Pete Hegseth took to the stage at a security summit in Singapore this weekend. But two topics were notably missing from his address: Taiwan and the Iran war. Haslinda Amin with more. (Source: Bloo…",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-hails-china-relationship-at-defense-summit-video",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T11:07:28",
-        "destaque": false
-      },
-      {
-        "id": "05c7e3ea699d",
-        "tipo": "artigo",
-        "titulo": "China Pledges to Retaliate If EU Imposes Trade Restrictions",
-        "resumo": "China warned it would “resolutely” retaliate if the European Union proceeds with new restrictive trade measures, following a May 29 European Commission discussion on China policy.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-30/china-pledges-to-retaliate-if-eu-imposes-trade-restrictions",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T10:58:00",
-        "destaque": false
-      },
-      {
-        "id": "3be8dc317ad5",
-        "tipo": "artigo",
-        "titulo": "Hanwha Aerospace Eyes Germany, UK Arms Deals as Demand Surges",
-        "resumo": "Hanwha Aerospace Co. is in talks with Germany, the UK and other European nations for new weapons deals, seeking to capitalize on a massive wave of global arms spending triggered by conflicts in Ukraine and the Middle East.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-30/hanwha-aerospace-eyes-germany-uk-arms-deals-as-demand-surges",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T10:16:49",
-        "destaque": false
-      },
-      {
-        "id": "0bf00ef554b6",
-        "tipo": "artigo",
-        "titulo": "Former Ambassador Cui On Stabilizing US-China Ties",
-        "resumo": "Cui Tiankai, a former Chinese ambassador to the US, explains how the US and China should work toward \"constructive strategic stability.\" Cui, who's also a former vice minister of foreign affairs for China, speaks to Bloomberg on the sidelines of the Shangri-La Dialogue in Singapo…",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-30/former-ambassador-cui-on-stabilizing-us-china-ties-video",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T10:15:55",
-        "destaque": false
-      },
-      {
-        "id": "21138090d44c",
-        "tipo": "artigo",
-        "titulo": "New Zealand’s Penk on Hormuz Uncertainty (Video) (Correct)",
-        "resumo": "New Zealand’s Defense Minister Chris Penk speaks to Bloomberg TV about how the Iran war is shaping his country’s security outlook, and the importance of freedom of navigation through the seas. He speaks with Bloomberg’s Haslinda Amin on the sidelines of the Shangri-La Dialogue. (…",
-        "link": "https://www.bloomberg.com/news/videos/2026-05-30/australia-s-marles-on-hormuz-uncertainty-video",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T08:00:01",
-        "destaque": false
-      },
-      {
-        "id": "3cbca702f283",
-        "tipo": "artigo",
-        "titulo": "Trump will remain ‘patient’ in pursuit of a deal with Iran, says Hegseth",
-        "resumo": "President wants to make a ‘great’ deal but defence secretary warns US is ready to restart attacks",
-        "link": "https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4",
-        "fonte": "Financial Times",
-        "data": "2026-05-30T07:33:17",
-        "destaque": false
-      },
-      {
-        "id": "bad49911d3ae",
-        "tipo": "artigo",
-        "titulo": "Qatar Says Temporary Hormuz Fee to Clear Mines Is Negotiable",
-        "resumo": "Qatar opposes permanent legal fees for transit through the Strait of Hormuz, but a temporary fee is negotiable and could help restore normal passage through the key waterway, a top official said.",
-        "link": "https://www.bloomberg.com/news/articles/2026-05-30/qatar-says-temporary-toll-at-strait-of-hormuz-is-negotiable",
-        "fonte": "Bloomberg",
-        "data": "2026-05-30T07:33:15",
-        "destaque": false
-      },
-      {
-        "id": "a57adbd4da29",
-        "tipo": "artigo",
-        "titulo": "Hegseth says US-China ties are ‘better than in years’",
-        "resumo": "Pentagon chief still presses allies to boost defence spending to counter ‘military build-up’ by Beijing",
-        "link": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
-        "fonte": "Financial Times",
-        "data": "2026-05-30T04:47:54",
-        "destaque": false
-      },
-      {
-        "id": "440e4bcba406",
-        "tipo": "artigo",
-        "titulo": "The floor versus the ceiling",
-        "resumo": "The world has come to prefer a high minimum to outright excellence",
-        "link": "https://www.ft.com/content/7d3ea5eb-8b5c-4282-af95-3b305d4a25f3",
-        "fonte": "Financial Times",
-        "data": "2026-05-30T04:00:51",
-        "destaque": false
-      },
-      {
-        "id": "6b41b95cd574",
-        "tipo": "artigo",
-        "titulo": "Wealth tax fears reignited by UK leadership uncertainty",
-        "resumo": "Contenders Streeting and Burnham have both hinted at tax reforms",
-        "link": "https://www.ft.com/content/0194916f-c741-417d-94c8-b87aa437aee2",
-        "fonte": "Financial Times",
-        "data": "2026-05-30T04:00:51",
-        "destaque": false
       }
     ],
     "brazil_politics": [
+      {
+        "id": "51050547a278",
+        "tipo": "artigo",
+        "titulo": "Who are the World Cup Golden Boot favourites? Mbappe, Ronaldo, Messi, Kane?",
+        "resumo": "There are a host of top players who could claim the coveted title of top goal scorer, including two from the same team.",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/who-are-the-world-cup-golden-boot-favourites-mbappe-ronaldo-messi-kane?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T12:13:20",
+        "destaque": true
+      },
+      {
+        "id": "4ba17f10f9a5",
+        "tipo": "artigo",
+        "titulo": "Israel’s Smotrich announces plan for 2,162 homes in occupied West Bank",
+        "resumo": "The far-right finance minister says the new houses will &#039;strengthen our hold on the land&#039;.",
+        "link": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T12:06:17",
+        "destaque": false
+      },
+      {
+        "id": "494977e81c67",
+        "tipo": "artigo",
+        "titulo": "Man City threatens legal action against Real Madrid following Haaland claim",
+        "resumo": "Enrique Riquelme held up a Real Madrid shirt bearing Erling Haaland&#039;s name, while campaigning for club presidency.",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/man-city-threaten-legal-action-against-real-madrid-following-haaland-claim?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T11:57:24",
+        "destaque": false
+      },
+      {
+        "id": "f878b67b7dad",
+        "tipo": "artigo",
+        "titulo": "Quiz: World Cup 2026 – player and team records, key statistics",
+        "resumo": "Test your football knowledge before the World Cup begins with a 10-question quiz.",
+        "link": "https://www.aljazeera.com/sports/2026/6/4/quiz-world-cup-2026-player-and-team-records-key-statistics?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T11:18:35",
+        "destaque": false
+      },
+      {
+        "id": "c60250b97269",
+        "tipo": "artigo",
+        "titulo": "Monsoon rain reaches Kerala 3 days late but on time to save Indian harvests",
+        "resumo": "The monsoon rains are essential for driving India&#039;s $4 trillion economy.",
+        "link": "https://www.aljazeera.com/news/2026/6/4/monsoon-rain-reaches-kerala-3-days-late-but-on-time-to-save-indian-harvests?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T11:10:33",
+        "destaque": false
+      },
+      {
+        "id": "b618ac310b77",
+        "tipo": "artigo",
+        "titulo": "Who is the Indian guru Venezuelan acting President Delcy Rodriguez follows?",
+        "resumo": "The Venezuelan leader, who is a devotee of Sathya Sai Baba, is in India as the two countries aim to boost energy ties.",
+        "link": "https://www.aljazeera.com/news/2026/6/4/who-is-the-indian-guru-venezuelan-acting-president-delcy-rodriguez-follows?traffic_source=rss",
+        "fonte": "Al Jazeera Brazil",
+        "data": "2026-06-04T11:04:16",
+        "destaque": false
+      },
       {
         "id": "dc260367cd85",
         "tipo": "artigo",
@@ -1213,7 +1273,7 @@
         "link": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief?traffic_source=rss",
         "fonte": "Al Jazeera Brazil",
         "data": "2026-06-03T14:24:51",
-        "destaque": true
+        "destaque": false
       },
       {
         "id": "b36631d6c89e",
@@ -1614,19 +1674,319 @@
         "fonte": "Al Jazeera Brazil",
         "data": "2026-05-28T12:52:48",
         "destaque": false
-      },
-      {
-        "id": "56e6b942a4c8",
-        "tipo": "artigo",
-        "titulo": "Brazil World Cup 2026 team preview: Players to watch, group matches, squad",
-        "resumo": "While one of the least fancied Brazilian World Cup sides of all time, Ancelotti&#039;s squad is still loaded with talent.",
-        "link": "https://www.aljazeera.com/sports/2026/5/28/brazils-world-cup-2026-team-preview-players-to-watch-group-matches-squad?traffic_source=rss",
-        "fonte": "Al Jazeera Brazil",
-        "data": "2026-05-28T12:43:44",
-        "destaque": false
       }
     ],
     "world_politics": [
+      {
+        "id": "1ac6cbc1fac3",
+        "tipo": "artigo",
+        "titulo": "Summer blockbuster: Why the French keep coming back to Charles de Gaulle",
+        "resumo": "The release of a two-part summer blockbuster on General Charles de Gaulle’s fight to rally resistance to Nazi occupation is yet another sign that the once-divisive figure continues to fascinate the French public. And while his name risks being turned into an empty signifier of fa…",
+        "link": "https://www.france24.com/en/france/20260604-summer-cinema-why-french-keep-coming-back-charles-de-gaulle",
+        "fonte": "France 24",
+        "data": "2026-06-04T12:40:15",
+        "destaque": true
+      },
+      {
+        "id": "b6b7ae5a4e1e",
+        "tipo": "artigo",
+        "titulo": "Iran War Live Updates: Israel Says It Targeted Hezbollah After New Cease-Fire With Lebanon",
+        "resumo": "The U.S.-brokered talks to clinch the deal did not include Hezbollah, the Iranian-backed armed group, which said it had fired rockets at Israeli targets hours after the truce was announced.",
+        "link": "https://www.nytimes.com/live/2026/06/04/world/iran-war-trump-israel-lebanon",
+        "fonte": "NYT World",
+        "data": "2026-06-04T12:31:52",
+        "destaque": false
+      },
+      {
+        "id": "55d4508f3abd",
+        "tipo": "artigo",
+        "titulo": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
+        "resumo": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union fo…",
+        "link": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
+        "fonte": "The Guardian",
+        "data": "2026-06-04T12:30:06",
+        "destaque": false
+      },
+      {
+        "id": "16bb602d43f0",
+        "tipo": "artigo",
+        "titulo": "Can Abelardo De La Espriella, a U.S. Citizen, Become Colombia’s President?",
+        "resumo": "President Trump this week endorsed the right-wing candidate, Abelardo De La Espriella, a dual citizen of Colombia and the United States, in Colombia’s presidential runoff.",
+        "link": "https://www.nytimes.com/2026/06/04/world/americas/colombia-president-de-la-espriella-us-citizen.html",
+        "fonte": "NYT World",
+        "data": "2026-06-04T12:16:15",
+        "destaque": false
+      },
+      {
+        "id": "99f7078bdfbb",
+        "tipo": "artigo",
+        "titulo": "Germans at Russia's SPIEF: Who's really there?",
+        "resumo": "Russian officials and media claim German businesses are comming back to the St. Petersburg Economic Forum despite the war in Ukrainer. But who is actually attending Russia's flagship event this year?",
+        "link": "https://www.dw.com/en/germans-at-russia-s-spief-who-s-really-there/a-77416709?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T12:13:00",
+        "destaque": false
+      },
+      {
+        "id": "0acda9e794d0",
+        "tipo": "artigo",
+        "titulo": "Ukraine accused of killing four in occupied Crimea",
+        "resumo": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
+        "link": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-04T11:55:20",
+        "destaque": false
+      },
+      {
+        "id": "fa3e5f231141",
+        "tipo": "artigo",
+        "titulo": "Civilians flee Mogadishu as Somali troops and opposition-allied militias trade fire",
+        "resumo": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expired Fierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some c…",
+        "link": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+        "fonte": "The Guardian",
+        "data": "2026-06-04T11:52:13",
+        "destaque": false
+      },
+      {
+        "id": "196af30177a7",
+        "tipo": "artigo",
+        "titulo": "Grim mood in Berlin after Germany loses Security Council bid",
+        "resumo": "Austria and Portugal have secured seats on the UN's most important body, but Germany has not. This brings a 40-year streak to an end. It's the most severe foreign policy defeat yet for the coalition government.",
+        "link": "https://www.dw.com/en/grim-mood-in-berlin-after-germany-loses-security-council-bid/a-77420221?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T11:51:00",
+        "destaque": false
+      },
+      {
+        "id": "cc2ef0c50931",
+        "tipo": "artigo",
+        "titulo": "Mount Everest: Missing Sherpa found alive after 6 days",
+        "resumo": "A Nepalese Sherpa miraculously survived for nearly a week after going missing on May 29. The missing man was found near Everest base camp.",
+        "link": "https://www.dw.com/en/mount-everest-missing-sherpa-found-alive-after-6-days/a-77420418?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T11:23:00",
+        "destaque": false
+      },
+      {
+        "id": "54ae240ec051",
+        "tipo": "artigo",
+        "titulo": "Marjane Satrapi, Author of ‘Persepolis,’ Dies at 56",
+        "resumo": "Her graphic novel series, published in English in 2003, followed an Iranian girl through the Islamic revolution and the Iran-Iraq War. The work helped millions relate to Iranians.",
+        "link": "https://www.nytimes.com/2026/06/04/world/europe/marjane-satrapi-persepolis-death.html",
+        "fonte": "NYT World",
+        "data": "2026-06-04T11:15:02",
+        "destaque": false
+      },
+      {
+        "id": "cabf2369bec3",
+        "tipo": "artigo",
+        "titulo": "Tiananmen dissident lambasts China on massacre anniversary",
+        "resumo": "On the anniversary of the Tiananmen Square massacre, Wu'er Kaixi, who played a leading role during the 1989 protests, spoke to DW about his personal loss and nearly four decades in exile.",
+        "link": "https://www.dw.com/en/tiananmen-dissident-lambasts-china-on-massacre-anniversary/a-77420338?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T11:10:00",
+        "destaque": false
+      },
+      {
+        "id": "fca7010be3f4",
+        "tipo": "artigo",
+        "titulo": "Stuck on oil: Can Hawaii power itself?",
+        "resumo": "Hawaii imports much of its fuel — and pays the price. From solar to geothermal, the state is searching for a way out of fossil fuel dependence.",
+        "link": "https://www.dw.com/en/stuck-on-oil-can-hawaii-power-itself/a-76967079?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T10:54:00",
+        "destaque": false
+      },
+      {
+        "id": "5c5e2542f474",
+        "tipo": "artigo",
+        "titulo": "Ireland, Seen as a Weak Link in Europe’s Defense, Is Trying to Bulk Up",
+        "resumo": "As concern rises in Europe over threats from an emboldened Russia, the Irish government says it’s working to plug gaps in its military, which reflect a tradition of neutrality.",
+        "link": "https://www.nytimes.com/2026/06/04/world/europe/ireland-defense.html",
+        "fonte": "NYT World",
+        "data": "2026-06-04T10:34:07",
+        "destaque": false
+      },
+      {
+        "id": "23e98eeb7e8b",
+        "tipo": "artigo",
+        "titulo": "Hezbollah’s Fiber-Optic Drones Expose Cracks in Israeli Defenses",
+        "resumo": "The Lebanese militant group’s attacks have caught Israelis off guard, forcing its political and military leaders to scramble for solutions.",
+        "link": "https://www.nytimes.com/2026/06/04/world/middleeast/hezbollah-fiber-optic-drones-israel.html",
+        "fonte": "NYT World",
+        "data": "2026-06-04T10:25:36",
+        "destaque": false
+      },
+      {
+        "id": "0149d6e5c538",
+        "tipo": "artigo",
+        "titulo": "Marjane Satrapi, author of 'Persepolis,' dies at 56",
+        "resumo": "The Iranian-born author of the acclaimed graphic novel and film offered a deeply personal account of Iran's Islamic Revolution.",
+        "link": "https://www.dw.com/en/marjane-satrapi-author-of-persepolis-dies-at-56/a-77419269?maca=en-rss-en-all-1573-rdf",
+        "fonte": "DW World",
+        "data": "2026-06-04T10:23:00",
+        "destaque": false
+      },
+      {
+        "id": "aa0bee068fba",
+        "tipo": "artigo",
+        "titulo": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
+        "resumo": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
+        "link": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-04T10:18:49",
+        "destaque": false
+      },
+      {
+        "id": "1da86bf6c8af",
+        "tipo": "artigo",
+        "titulo": "Kuwait releases footage of drone strike on airport",
+        "resumo": "#Kuwait released CCTV footage showing the moment its #airport was hit by a #drone on June 3. One person was killed and scores more were wounded in the #strike.",
+        "link": "https://www.france24.com/en/video/20260604-kuwait-releases-footage-of-drone-strike-on-airport",
+        "fonte": "France 24",
+        "data": "2026-06-04T10:16:18",
+        "destaque": false
+      },
+      {
+        "id": "e6a86e9e7aa2",
+        "tipo": "artigo",
+        "titulo": "Exiled for an anti-war drawing: A Russian family punished for dissent",
+        "resumo": "It is the moving story of a Russian father and daughter who opposed Vladimir Putin’s war in Ukraine. It all began in March 2022, when 12-year-old Maria drew an anti-war picture at school in response to the invasion launched a month earlier. She was immediately reported by those a…",
+        "link": "https://www.france24.com/en/tv-shows/focus/20260604-exiled-for-an-anti-war-drawing-russian-father-and-daughter-who-opposed-putin",
+        "fonte": "France 24",
+        "data": "2026-06-04T09:55:05",
+        "destaque": false
+      },
+      {
+        "id": "a0538ddbc61f",
+        "tipo": "artigo",
+        "titulo": "Albania's 'flamingo revolution' against Jared-Kushner-backed luxury resort",
+        "resumo": "PRESS REVIEW – Thursday, June 4: Today marks 37 years since the Tiananmen Square massacre and the papers look at how advocates are trying to keep the memory of the victims alive. Albanians continue nationwide protests over a proposed luxury resort on a protected ecosystem in a pr…",
+        "link": "https://www.france24.com/en/tv-shows/press-review/20260604-albania-s-flamingo-revolution-against-jared-kushner-backed-luxury-resort",
+        "fonte": "France 24",
+        "data": "2026-06-04T09:48:21",
+        "destaque": false
+      },
+      {
+        "id": "f8c8b0c16ffc",
+        "tipo": "artigo",
+        "titulo": "Russia ramps up pressure on Armenia ahead of Sunday's crucial election",
+        "resumo": "Russia has increased its pressure on Armenia ahead of Sunday’s parliamentary elections, pulling out virtually all the stops linked to trade should its long-term ally persist in its ambitions to join the European Union. Moscow has threatened to raise gas prices, put measures in pl…",
+        "link": "https://www.france24.com/en/europe/20260604-russia-ramps-pressure-on-armenia-ahead-of-sunday-s-crucial-election",
+        "fonte": "France 24",
+        "data": "2026-06-04T08:16:08",
+        "destaque": false
+      },
+      {
+        "id": "d0c43f68dc96",
+        "tipo": "artigo",
+        "titulo": "French-Iranian author Marjane Satrapi dead at 56",
+        "resumo": "",
+        "link": "https://www.france24.com/en/europe/20260604-french-iranian-author-marjane-satrapi-dead-56",
+        "fonte": "France 24",
+        "data": "2026-06-04T08:01:56",
+        "destaque": false
+      },
+      {
+        "id": "a2ba2f9e689e",
+        "tipo": "artigo",
+        "titulo": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+        "resumo": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+        "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-04T07:49:33",
+        "destaque": false
+      },
+      {
+        "id": "d48df9b0d9ed",
+        "tipo": "artigo",
+        "titulo": "US House delivers rebuke to Trump as it votes to halt Iran war",
+        "resumo": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
+        "link": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-04T07:23:41",
+        "destaque": false
+      },
+      {
+        "id": "50d31f61b291",
+        "tipo": "artigo",
+        "titulo": "Amid War, Iran’s Soccer Leader Works to Get His Team to the World Cup",
+        "resumo": "Mehdi Taj said his federation has been dealing with FIFA, not the United States, in trying to obtain visas for Iran to play in the tournament that begins next week.",
+        "link": "https://www.nytimes.com/2026/06/04/world/middleeast/iran-soccer-world-cup-war.html",
+        "fonte": "NYT World",
+        "data": "2026-06-04T04:01:06",
+        "destaque": false
+      },
+      {
+        "id": "44433c50094d",
+        "tipo": "artigo",
+        "titulo": "Rebel attacks in eastern DRC kill 30 people and hamper Ebola response",
+        "resumo": "Islamic State-linked militia blamed for raids in North Kivu as governor says three patients with disease fled clinics Rebel attacks around a town that is one of the centres of the Ebola outbreak in the Democratic Republic of the Congo have left more than 30 people dead over the p…",
+        "link": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response",
+        "fonte": "The Guardian",
+        "data": "2026-06-04T04:00:25",
+        "destaque": false
+      },
+      {
+        "id": "f8ae0ac617b8",
+        "tipo": "artigo",
+        "titulo": "The American Military’s Coming Marathon",
+        "resumo": "The Pentagon needs both quantity and quality to win modern conflicts.",
+        "link": "https://www.foreignaffairs.com/united-states/american-militarys-coming-marathon",
+        "fonte": "Foreign Affairs",
+        "data": "2026-06-04T04:00:00",
+        "destaque": false
+      },
+      {
+        "id": "6d221bc8b46e",
+        "tipo": "artigo",
+        "titulo": "The Transatlantic Crucible",
+        "resumo": "The crisis between Washington and Europe may be a blessing in disguise.",
+        "link": "https://www.foreignaffairs.com/united-states/transatlantic-crucible",
+        "fonte": "Foreign Affairs",
+        "data": "2026-06-04T04:00:00",
+        "destaque": false
+      },
+      {
+        "id": "4fdbb711a590",
+        "tipo": "artigo",
+        "titulo": "Grab what you can while you can: The new reality in the South China Sea",
+        "resumo": "After years of watching China create land to back its expansive claims, others are doing the same.",
+        "link": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-03T22:00:21",
+        "destaque": false
+      },
+      {
+        "id": "93244e3bf257",
+        "tipo": "artigo",
+        "titulo": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+        "resumo": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+        "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+        "fonte": "BBC World",
+        "data": "2026-06-03T20:28:01",
+        "destaque": false
+      },
+      {
+        "id": "5be7856eb962",
+        "tipo": "artigo",
+        "titulo": "Dead but deportable: US immigration judge signed order to eject teen murder victim",
+        "resumo": "North Carolina judge said Levi Mendez-Maldonado failed to show up in court – even after being told he had died in 2024 An immigration judge in Charlotte, North Carolina , recently ordered the deportation of a young man who was killed in 2024, citing his failure to appear in court…",
+        "link": "https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim",
+        "fonte": "The Guardian",
+        "data": "2026-06-03T18:04:53",
+        "destaque": false
+      },
+      {
+        "id": "a719f9cd379e",
+        "tipo": "artigo",
+        "titulo": "DRC Ebola outbreak could have begun as early as January, WHO chief says",
+        "resumo": "Tedros Adhanom Ghebreyesus says the virus ‘had a big head start’ but that the response was catching up The Ebola outbreak in the Democratic Republic of the Congo could have begun as early as January, the head of the World Health Organization said, giving the virus “a big head sta…",
+        "link": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+        "fonte": "The Guardian",
+        "data": "2026-06-03T17:29:55",
+        "destaque": false
+      },
       {
         "id": "a9c1a4181dd5",
         "tipo": "artigo",
@@ -1635,7 +1995,7 @@
         "link": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
         "fonte": "NYT World",
         "data": "2026-06-03T14:35:11",
-        "destaque": true
+        "destaque": false
       },
       {
         "id": "5d50fefc33b9",
@@ -1916,320 +2276,10 @@
         "fonte": "DW World",
         "data": "2026-06-02T13:45:00",
         "destaque": false
-      },
-      {
-        "id": "f8e453d0ac90",
-        "tipo": "artigo",
-        "titulo": "Why Google wants to release millions of mosquitoes in the US",
-        "resumo": "Google's Debug research program plans to release millions of sterile mosquitoes to fight species that spread diseases like dengue. How does the method work — and should humans interfere with nature like this?",
-        "link": "https://www.dw.com/en/why-google-wants-to-release-millions-of-mosquitoes-in-the-us/a-77390494?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-02T13:43:00",
-        "destaque": false
-      },
-      {
-        "id": "0c1165d45871",
-        "tipo": "artigo",
-        "titulo": "The lucrative market behind viral fake news",
-        "resumo": "Public debate is increasingly disrupted by viral misinformation circulating on social media. Behind this sensationalist content regularly lie actors driven by pure profit. To truly understand the spread of online misinformation, author and academic Carlos Diaz Ruiz suggests it mu…",
-        "link": "https://www.france24.com/en/technology/20260602-lucrative-market-behind-viral-fake-news",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:41:24",
-        "destaque": false
-      },
-      {
-        "id": "e7b1f96d5fd7",
-        "tipo": "artigo",
-        "titulo": "French President visits national team ahead of World cup",
-        "resumo": "French President Emmanuel Macron and First Lady Brigitte Macron visited the country's national football team ahead of their departure for the World Cup. France are one of the favourites going into the competition. This will be the final major tournament for head coach Didier Desc…",
-        "link": "https://www.france24.com/en/video/20260602-french-president-visits-national-team-ahead-of-world-cup",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:37:44",
-        "destaque": false
-      },
-      {
-        "id": "e1ab24b70f32",
-        "tipo": "artigo",
-        "titulo": "140,00 Kyiv residents without power after Russian attack",
-        "resumo": "Russia pounded several Ukrainian cities with hundreds of drones and dozens of ​missiles early on Tuesday, killig18 people and wounding more than 100. Ukraine says Russia launched 656 drones and 73 missiles overnight. FRANCE 24's Gulliver Cragg reports from Kyiv.",
-        "link": "https://www.france24.com/en/140-00-kyiv-residents-without-power-after-russian-attack",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:35:40",
-        "destaque": false
-      },
-      {
-        "id": "e8bf6f2c3fb2",
-        "tipo": "artigo",
-        "titulo": "'Cockroach' movement gives voice to India's angry youth",
-        "resumo": "The satirical Cockroach Janta Party has tapped into the concerns of the India's youth over issues plaguing the nation's education and employment policies.",
-        "link": "https://www.dw.com/en/cockroach-movement-gives-voice-to-india-s-angry-youth/a-77391629?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-02T13:24:00",
-        "destaque": false
-      },
-      {
-        "id": "3c40621848bd",
-        "tipo": "artigo",
-        "titulo": "Salary transparency: How much do you earn?",
-        "resumo": "Ever been asked how much money you make and felt uncomfortable? In this edition of Entre Nous, we take a look at salary transparency. With the looming deadline of an EU directive on the issue, we find out what changes are coming, which nations are ready and why transparency may a…",
-        "link": "https://www.france24.com/en/tv-shows/entre-nous/20260602-salary-transparency-how-much-do-you-earn",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:21:08",
-        "destaque": false
-      },
-      {
-        "id": "413e0d49d3de",
-        "tipo": "artigo",
-        "titulo": "Japan: Bear rampage injures 4 in Fukushima",
-        "resumo": "The bear, which attacked employees at a steel works company, has still not yet been captured. This latest attack comes after 13 people were killed by bears in Japan last year, according to authorities.",
-        "link": "https://www.dw.com/en/japan-bear-rampage-injures-4-in-fukushima/a-77392803?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-02T13:21:00",
-        "destaque": false
-      },
-      {
-        "id": "f658923523e8",
-        "tipo": "artigo",
-        "titulo": "Ebola: Kenya's president defends US site amid protests",
-        "resumo": "A Kenyan court has blocked a planned quarantine center for US citizens, as President Ruto urged people to \"relax\" about the facility. Meanwhile, the WHO has dramatically scaled back the number of suspected cases.",
-        "link": "https://www.dw.com/en/ebola-kenya-s-president-defends-us-site-amid-protests/a-77390877?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-02T13:16:00",
-        "destaque": false
-      },
-      {
-        "id": "64c41e406c9f",
-        "tipo": "artigo",
-        "titulo": "WHO reports dramatic drop in suspected Ebola cases from over 900 to 116",
-        "resumo": "The World Health Organization (WHO) on Tuesday reported a drop in suspected Ebola cases to 116, down from 906 last week. Testing had \"cleared out\" some on the suspected cases list. Around 321 cases were confirmed in the DR Congo, including 48 deaths, while nine confirmed cases ha…",
-        "link": "https://www.france24.com/en/health/20260602-who-reports-dramatic-drop-in-suspected-ebola-cases-from-over-900-to-116",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:10:26",
-        "destaque": false
-      },
-      {
-        "id": "a45b98c543d0",
-        "tipo": "artigo",
-        "titulo": "Legendary 130-year-old French wine restored after decades under Czech castle floor",
-        "resumo": "",
-        "link": "https://www.france24.com/en/europe/20260602-legendary-130-year-old-french-wine-restored-after-decades-under-czech-castle-floor",
-        "fonte": "France 24",
-        "data": "2026-06-02T13:03:31",
-        "destaque": false
-      },
-      {
-        "id": "8a501108bb0e",
-        "tipo": "artigo",
-        "titulo": "Ukraine rescuers pull dead from rubble after Russian strikes kill 18 people",
-        "resumo": "An eight-year-old boy and a woman killed in a strike on an apartment block are among the dead, officials say.",
-        "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T12:46:36",
-        "destaque": false
-      },
-      {
-        "id": "2569aa5d9af7",
-        "tipo": "artigo",
-        "titulo": "Nigeria: How religious divides worsen conflict during drought",
-        "resumo": "Drought is often blamed for Nigeria's farmer-herder violence. But new research shows clashes rise mainly where Muslim herders meet predominantly Christian communities, turning competition over land into deadly conflict.",
-        "link": "https://www.dw.com/en/nigeria-how-religious-divides-worsen-conflict-during-drought/a-77373785?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-02T12:45:00",
-        "destaque": false
-      },
-      {
-        "id": "69849655bf55",
-        "tipo": "artigo",
-        "titulo": "U.S. Ebola Unit Plans in Kenya, Subject of Protests, Suffers New Setback From Court Ruling",
-        "resumo": "The court further delayed the Trump administration’s proposed quarantine unit for Americans exposed to the virus. The plan has sparked angry protests in Kenya.",
-        "link": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
-        "fonte": "NYT World",
-        "data": "2026-06-02T12:20:33",
-        "destaque": false
-      },
-      {
-        "id": "ec79fdc64c97",
-        "tipo": "artigo",
-        "titulo": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
-        "resumo": "Passed by MPs, the bill proposes prison sentences for people identifying as part of the LGBTQ+ community.",
-        "link": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T11:59:30",
-        "destaque": false
-      },
-      {
-        "id": "341314a8a2a9",
-        "tipo": "artigo",
-        "titulo": "Russia Is Showing Signs of Weakness in Ukraine. So It Hits Harder.",
-        "resumo": "The war has not been going the Kremlin’s way recently, with battleground losses and mounting casualties. With renewed strikes, Moscow hopes to gain a better position for negotiations.",
-        "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
-        "fonte": "NYT World",
-        "data": "2026-06-02T11:51:19",
-        "destaque": false
-      },
-      {
-        "id": "ac20d7c4b791",
-        "tipo": "artigo",
-        "titulo": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-        "resumo": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
-        "link": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T11:40:02",
-        "destaque": false
-      },
-      {
-        "id": "b82fe926361c",
-        "tipo": "artigo",
-        "titulo": "Russia Launches Deadly Strikes on Kyiv After Threatening Ukraine for a Week",
-        "resumo": "Moscow’s repeated warnings of a major strike, combined with the delay before it happened, seemed intended to inflict a psychological toll on the Ukrainian capital.",
-        "link": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
-        "fonte": "NYT World",
-        "data": "2026-06-02T11:18:06",
-        "destaque": false
-      },
-      {
-        "id": "c6be451e74e6",
-        "tipo": "artigo",
-        "titulo": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-        "resumo": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
-        "link": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T10:53:37",
-        "destaque": false
-      },
-      {
-        "id": "d5fc6d185cc0",
-        "tipo": "artigo",
-        "titulo": "U.S. Was Asked to Blacklist Colombian Cartel Gold. It Was Also Buying It.",
-        "resumo": "The request for sanctions, from Colombia’s defense minister, shows failures at both ends of the supply chain for illegal gold.",
-        "link": "https://www.nytimes.com/2026/06/02/world/americas/us-colombia-gold-blacklist-sanctions.html",
-        "fonte": "NYT World",
-        "data": "2026-06-02T09:00:52",
-        "destaque": false
-      },
-      {
-        "id": "daeb76cc92ad",
-        "tipo": "artigo",
-        "titulo": "Musket balls and a burnt hull: evidence of real pirates of the Caribbean found in Bahamas",
-        "resumo": "Exclusive: First shipwrecks found in Nassau harbour on New Providence, once the hideout of Blackbeard and Calico Jack The first shipwrecks linked to the real pirates of the Caribbean in the Bahamas have been discovered by an international team co-directed by a British marine arch…",
-        "link": "https://www.theguardian.com/world/2026/jun/02/shipwrecks-evidence-real-pirates-of-the-caribbean-nassau-harbour-bahamas",
-        "fonte": "The Guardian",
-        "data": "2026-06-02T08:00:42",
-        "destaque": false
-      },
-      {
-        "id": "1118f485d33e",
-        "tipo": "artigo",
-        "titulo": "China goes after 'ghost kitchens' to rein in cut-throat food delivery apps",
-        "resumo": "The thousands of \"ghost kitchens\" - online shops that don't actually exist - have spooked Chinese consumers.",
-        "link": "https://www.bbc.com/news/articles/cj4p7zglq5no?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T07:52:47",
-        "destaque": false
-      },
-      {
-        "id": "f2522a80aea8",
-        "tipo": "artigo",
-        "titulo": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-        "resumo": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
-        "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-        "fonte": "BBC World",
-        "data": "2026-06-02T07:31:10",
-        "destaque": false
-      },
-      {
-        "id": "46f33e12e568",
-        "tipo": "artigo",
-        "titulo": "Mozambique says five citizens killed in ‘xenophobic attacks’ in South Africa",
-        "resumo": "South African police confirm two deaths of Mozambicans in Mossel Bay as anti-immigration violence sweeps country Mozambique said five of its nationals were killed in “xenophobic attacks” in South Africa at the weekend and efforts were under way on Tuesday to repatriate hundreds o…",
-        "link": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-        "fonte": "The Guardian",
-        "data": "2026-06-02T07:29:36",
-        "destaque": false
-      },
-      {
-        "id": "20f2ca6b1a12",
-        "tipo": "artigo",
-        "titulo": "The New Zealand Parakeet Pair That Are Saving Their Species",
-        "resumo": "There are about 450 orange-fronted parakeets left in the world. Super breeders Nacho and Trixie are doing their best to bolster the population.",
-        "link": "https://www.nytimes.com/2026/06/02/world/australia/kakariki-karaka-bird-parakeet-new-zealand-endangered.html",
-        "fonte": "NYT World",
-        "data": "2026-06-02T04:00:02",
-        "destaque": false
-      },
-      {
-        "id": "f8997ebcd404",
-        "tipo": "artigo",
-        "titulo": "Iran Embraces a Forever War",
-        "resumo": "Tehran’s new strategic calculus.",
-        "link": "https://www.foreignaffairs.com/iran/iran-embraces-forever-war",
-        "fonte": "Foreign Affairs",
-        "data": "2026-06-02T04:00:00",
-        "destaque": false
-      },
-      {
-        "id": "a83cee9576ce",
-        "tipo": "artigo",
-        "titulo": "Hezbollah’s Trap for Israel",
-        "resumo": "The stark choice between occupation and disarmament.",
-        "link": "https://www.foreignaffairs.com/israel/hezbollahs-trap-israel",
-        "fonte": "Foreign Affairs",
-        "data": "2026-06-02T04:00:00",
-        "destaque": false
-      },
-      {
-        "id": "654363fd1994",
-        "tipo": "artigo",
-        "titulo": "Iran War Live Updates: U.S. and Iran Trade Attacks and Israel Threatens Beirut",
-        "resumo": "An unconfirmed report said Iran would stop participating in negotiations with Washington. In Lebanon, Israel issued an evacuation order for the capital’s southern outskirts, a stronghold of Iran-backed Hezbollah.",
-        "link": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-        "fonte": "NYT World",
-        "data": "2026-06-01T15:51:11",
-        "destaque": false
-      },
-      {
-        "id": "e451b91e33af",
-        "tipo": "artigo",
-        "titulo": "UK wins court case over canceled plan to deport asylum seekers to Rwanda",
-        "resumo": "An international court has rejected a Rwandan claim for millions in damages over a scrapped deal to send asylum seekers to the East African nation.",
-        "link": "https://www.dw.com/en/uk-wins-court-case-over-canceled-plan-to-deport-asylum-seekers-to-rwanda/a-77379092?maca=en-rss-en-all-1573-rdf",
-        "fonte": "DW World",
-        "data": "2026-06-01T15:29:00",
-        "destaque": false
-      },
-      {
-        "id": "a7cc030fa985",
-        "tipo": "artigo",
-        "titulo": "Ethiopia: 'One of the most rapidly growing economies in Africa, but wealth distribution is terrible'",
-        "resumo": "Annette Young is pleased to welcome Dr. Douglas Yates, Africa Specialist and Political Science Professor at the American Graduate School of International Relations and Diplomacy. Amid ongoing conflict, will Ethiopia's elections be \"free and fair\"? While acknowledging that elector…",
-        "link": "https://www.france24.com/en/ethiopia-one-of-the-most-rapidly-growing-economies-in-africa-but-wealth-distribution-is-terrible",
-        "fonte": "France 24",
-        "data": "2026-06-01T15:27:42",
-        "destaque": false
-      },
-      {
-        "id": "4525b1e99832",
-        "tipo": "artigo",
-        "titulo": "French doctors sound alarm over drinking water pollution",
-        "resumo": "Pesticides, microplastics and so-called forever chemicals: that’s the cocktail of substances millions of French people are exposed to simply from drinking tap water. According to France's National Association of Health professionals, representing private practice doctors, at leas…",
-        "link": "https://www.france24.com/en/tv-shows/down-to-earth/20260601-french-doctors-sound-alarm-over-drinking-water-pollution",
-        "fonte": "France 24",
-        "data": "2026-06-01T15:15:44",
-        "destaque": false
-      },
-      {
-        "id": "2c71042071ac",
-        "tipo": "artigo",
-        "titulo": "Ethiopia votes in elections expected to give Abiy's party a landslide win",
-        "resumo": "Ethiopians voted on Monday in parliamentary and regional elections expected to hand Prime Minister Abiy Ahmed’s ruling Prosperity Party a landslide win. There was no election in the Tigray region due to “unfavourable conditions”, and voting in the Oromo and Amhara regions were in…",
-        "link": "https://www.france24.com/en/africa/20260601-ethiopia-votes-in-elections-expected-to-give-abiy-s-party-a-landslide-win",
-        "fonte": "France 24",
-        "data": "2026-06-01T15:14:01",
-        "destaque": false
       }
     ]
   },
-  "ultima_atualizacao": "2026-06-03T14:40:48",
+  "ultima_atualizacao": "2026-06-04T12:45:28",
   "meta": {
     "science_tech": {
       "label": "Science & Technology",
